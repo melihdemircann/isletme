@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>İşletme Vize Hazırlık Portalı | 100 Tam Puan Platformu</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body data-course="">
+  <canvas id="confetti-canvas"></canvas>
+  
+  <nav class="navbar">
+    <div class="container nav-container">
+      <a href="index.html" class="brand-link">
+        <div class="brand-icon">🎓</div>
+        <div>
+          <span>İşletme 100 Portalı</span>
+          <div style="font-size:0.75rem; color:var(--text-muted); font-weight:normal;">Vize Hazırlık & Başarı Merkezi</div>
+        </div>
+      </a>
+      <ul class="nav-links">
+        <li><a href="index.html" class="nav-link active">🏠 Ana Sayfa</a></li>
+        <li><a href="isletme-ilkeleri.html" class="nav-link ">💼 İşletme İlkeleri</a></li>
+        <li><a href="hukukun-temel-kavramlari.html" class="nav-link ">⚖️ Hukuk</a></li>
+        <li><a href="iktisada-giris.html" class="nav-link ">📈 İktisada Giriş</a></li>
+        <li><a href="davranis-bilimleri.html" class="nav-link ">🧠 Davranış Bilimleri</a></li>
+      </ul>
+      <div style="display:flex; align-items:center; gap:0.75rem;">
+        <button id="theme-toggle" class="theme-toggle-btn">🌙 Koyu Mod</button>
+      </div>
+    </div>
+  </nav>
+  
+
+  <header class="hero-section">
+    <div class="container">
+      <div class="hero-badge">🎯 Üniversite Vize Sınavı Standardı</div>
+      <h1 class="hero-title">İşletme 1. Sınıf Vize Hazırlık & 100 Tam Puan Platformu</h1>
+      <p class="hero-subtitle">
+        Her dersten 20 soruluk çoktan seçmeli vize sınavlarına özel geliştirilmiş; seni hem sıfırdan öğreten, 
+        hem sınav tuzaklarını gösteren, hem de 100 aldıracak 4 dörtlük interaktif çalışma istasyonu.
+      </p>
+      <div style="display:flex; justify-content:center; gap:1rem; flex-wrap:wrap;">
+        <a href="#dersler" class="btn btn-primary" style="padding:0.85rem 1.75rem; font-size:1.05rem;">🚀 Dersini Seç ve Çalışmaya Başla</a>
+        <a href="#taktikler" class="btn btn-secondary" style="padding:0.85rem 1.75rem; font-size:1.05rem;">💡 Vizede 100 Alma Stratejileri</a>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <!-- Quick Stats -->
+    <section class="stats-grid">
+      <div class="stat-card">
+        <div class="stat-icon" style="background:rgba(79, 70, 229, 0.1); color:var(--primary);">📚</div>
+        <div>
+          <div class="stat-value">4 Temel Ders</div>
+          <div class="stat-label">16 Ünite Vize Müfredatı</div>
+        </div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-icon" style="background:rgba(14, 165, 233, 0.1); color:var(--accent);">🎯</div>
+        <div>
+          <div class="stat-value">20 Soru / 30 Dk</div>
+          <div class="stat-label">Birebir Vize Sınav Simülatörü</div>
+        </div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-icon" style="background:rgba(16, 185, 129, 0.1); color:var(--success);">📝</div>
+        <div>
+          <div class="stat-value">190+ Açıklamalı Soru</div>
+          <div class="stat-label">Kitap & Çıkabilecek Vize Havuzu</div>
+        </div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-icon" style="background:rgba(245, 158, 11, 0.1); color:var(--warning);">🏆</div>
+        <div>
+          <div class="stat-value" id="total-exams-count">0</div>
+          <div class="stat-label">Çözülen Deneme Sayısı</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Course Cards -->
+    <section id="dersler" style="margin: 3.5rem 0 2rem;">
+      <div style="text-align:center; margin-bottom:2rem;">
+        <span class="question-badge">VİZE SINAV MODÜLLERİ</span>
+        <h2 style="font-size:2rem; font-weight:800; margin-top:0.5rem;">Çalışmak İstediğin Dersi Seç</h2>
+        <p style="color:var(--text-muted);">Her ders için hazırlanmış bağımsız siteye girerek deneme sınavı çözebilir, özetleri okuyabilir ve kavram kartlarını ezberleyebilirsin.</p>
+      </div>
+
+      <div class="courses-grid">
+        <!-- İşletme İlkeleri -->
+        <div class="course-card">
+          <div class="course-header">
+            <div class="course-top-row">
+              <div class="course-icon-box" style="background:rgba(99, 102, 241, 0.12); color:#6366f1;">💼</div>
+              <span class="course-badge" style="background:rgba(99, 102, 241, 0.12); color:#6366f1;">4 ÜNİTE</span>
+            </div>
+            <h3 class="course-title">İşletme İlkeleri</h3>
+            <p class="course-desc">İşletme ve işletmecilik, çevre analizi (PESTLE, Porter 5 Güç), şirket türleri (A.Ş, Ltd, Şahıs), KOBİ ve Carroll sosyal sorumluluk piramidi.</p>
+          </div>
+          <ul class="course-features">
+            <li><span>✓</span> 20 Soruluk Gerçek Vize Sınavı (30 Dk)</li>
+            <li><span>✓</span> 48 Adet Detaylı Çözümlü Soru</li>
+            <li><span>✓</span> 100 Aldıran Altın Vize Hapları</li>
+            <li><span>✓</span> 14 İnteraktif Kavram Kartı (Flashcard)</li>
+          </ul>
+          <div class="course-footer">
+            <span id="score-isletme" style="font-size:0.85rem; font-weight:700; color:var(--text-muted);">Henüz Çözülmedi</span>
+            <a href="isletme-ilkeleri.html" class="btn btn-primary btn-sm">Ders Sitesine Git ➔</a>
+          </div>
+        </div>
+
+        <!-- Hukukun Temel Kavramları -->
+        <div class="course-card">
+          <div class="course-header">
+            <div class="course-top-row">
+              <div class="course-icon-box" style="background:rgba(244, 63, 94, 0.12); color:#f43f5e;">⚖️</div>
+              <span class="course-badge" style="background:rgba(244, 63, 94, 0.12); color:#f43f5e;">4 ÜNİTE</span>
+            </div>
+            <h3 class="course-title">Hukukun Temel Kavramları</h3>
+            <p class="course-desc">Sosyal düzen kuralları, maddi yaptırımlar (yokluk, butlan, cebri icra), normlar hiyerarşisi, hukuk boşluğu, Türk yargı kolları ve mahkemeler.</p>
+          </div>
+          <ul class="course-features">
+            <li><span>✓</span> 20 Soruluk Gerçek Vize Sınavı (30 Dk)</li>
+            <li><span>✓</span> 47 Adet Detaylı Çözümlü Soru</li>
+            <li><span>✓</span> Hükümsüzlük & Boşluk Tabloları</li>
+            <li><span>✓</span> 14 İnteraktif Kavram Kartı (Flashcard)</li>
+          </ul>
+          <div class="course-footer">
+            <span id="score-hukuk" style="font-size:0.85rem; font-weight:700; color:var(--text-muted);">Henüz Çözülmedi</span>
+            <a href="hukukun-temel-kavramlari.html" class="btn btn-primary btn-sm" style="background:#f43f5e;">Ders Sitesine Git ➔</a>
+          </div>
+        </div>
+
+        <!-- İktisada Giriş I -->
+        <div class="course-card">
+          <div class="course-header">
+            <div class="course-top-row">
+              <div class="course-icon-box" style="background:rgba(16, 185, 129, 0.12); color:#10b981;">📈</div>
+              <span class="course-badge" style="background:rgba(16, 185, 129, 0.12); color:#10b981;">4 ÜNİTE</span>
+            </div>
+            <h3 class="course-title">İktisada Giriş I (Mikro)</h3>
+            <p class="course-desc">Kıtlık sorunu, fırsat maliyeti, Üretim Olanakları Eğrisi (ÜOE), arz-talep piyasa dengesi, artık/kıtlık ve talebin/arzın esneklikleri.</p>
+          </div>
+          <ul class="course-features">
+            <li><span>✓</span> 20 Soruluk Gerçek Vize Sınavı (30 Dk)</li>
+            <li><span>✓</span> 47 Adet Detaylı Çözümlü Soru</li>
+            <li><span>✓</span> Eğri Kaymaları & Esneklik Formülleri</li>
+            <li><span>✓</span> 14 İnteraktif Kavram Kartı (Flashcard)</li>
+          </ul>
+          <div class="course-footer">
+            <span id="score-iktisat" style="font-size:0.85rem; font-weight:700; color:var(--text-muted);">Henüz Çözülmedi</span>
+            <a href="iktisada-giris.html" class="btn btn-primary btn-sm" style="background:#10b981;">Ders Sitesine Git ➔</a>
+          </div>
+        </div>
+
+        <!-- Davranış Bilimleri I -->
+        <div class="course-card">
+          <div class="course-header">
+            <div class="course-top-row">
+              <div class="course-icon-box" style="background:rgba(168, 85, 247, 0.12); color:#a855f7;">🧠</div>
+              <span class="course-badge" style="background:rgba(168, 85, 247, 0.12); color:#a855f7;">4 ÜNİTE</span>
+            </div>
+            <h3 class="course-title">Davranış Bilimleri I</h3>
+            <p class="course-desc">Sosyoloji ve araştırma yöntemleri, kurucular (Comte, Marx, Durkheim, Weber), kültür ögeleri, etnosantrizm, evlilik türleri ve gruplar.</p>
+          </div>
+          <ul class="course-features">
+            <li><span>✓</span> 20 Soruluk Gerçek Vize Sınavı (30 Dk)</li>
+            <li><span>✓</span> 48 Adet Detaylı Çözümlü Soru</li>
+            <li><span>✓</span> Sosyologlar & Kuramlar Karşılaştırması</li>
+            <li><span>✓</span> 14 İnteraktif Kavram Kartı (Flashcard)</li>
+          </ul>
+          <div class="course-footer">
+            <span id="score-davranis" style="font-size:0.85rem; font-weight:700; color:var(--text-muted);">Henüz Çözülmedi</span>
+            <a href="davranis-bilimleri.html" class="btn btn-primary btn-sm" style="background:#a855f7;">Ders Sitesine Git ➔</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 100 Score Strategy Section -->
+    <section id="taktikler" style="margin: 4rem 0 3rem; background:var(--bg-surface); border:1px solid var(--border-color); border-radius:var(--radius-lg); padding:2.5rem 2rem;">
+      <div style="text-align:center; max-width:700px; margin:0 auto 2rem;">
+        <span class="question-badge" style="background:var(--warning-light); color:var(--warning);">💯 VİZE BAŞARI REHBERİ</span>
+        <h2 style="font-size:1.85rem; font-weight:800; margin-top:0.5rem;">Sınavda 100 Almak İçin 5 Altın Kural</h2>
+        <p style="color:var(--text-muted); font-size:0.95rem;">Üniversite çoktan seçmeli vize sınavlarında derece yapan öğrencilerin uyguladığı stratejiler:</p>
+      </div>
+
+      <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(280px, 1fr)); gap:1.5rem;">
+        <div style="background:var(--bg-elevated); padding:1.5rem; border-radius:var(--radius-md); border-left:4px solid var(--primary);">
+          <h4 style="font-size:1.1rem; margin-bottom:0.5rem;">1. "Neler Öğrendik" Sorularını Asla Atlama</h4>
+          <p style="font-size:0.9rem; color:var(--text-muted);">Üniversite soru komisyonları vize sorularının en az %60-70'ini doğrudan kitap sonundaki ünite sorularından veya bunların çok benzerlerinden türetir. Bu platformdaki tüm kitap sorularını çözdüğünden emin ol.</p>
+        </div>
+        <div style="background:var(--bg-elevated); padding:1.5rem; border-radius:var(--radius-md); border-left:4px solid var(--success);">
+          <h4 style="font-size:1.1rem; margin-bottom:0.5rem;">2. 20 Soruluk Denemeyi Gerçek Sınav Gibi Çöz</h4>
+          <p style="font-size:0.9rem; color:var(--text-muted);">30 dakikalık süreyi iyi yönet. Soru başına 1.5 dakika düşer. Emin olmadığın soruları '🚩 Gözden Geçir' ile işaretle ve takılmadan devam et.</p>
+        </div>
+        <div style="background:var(--bg-elevated); padding:1.5rem; border-radius:var(--radius-md); border-left:4px solid var(--accent);">
+          <h4 style="font-size:1.1rem; margin-bottom:0.5rem;">3. İkili Zıt Kavramları Birbirine Karıştırma</h4>
+          <p style="font-size:0.9rem; color:var(--text-muted);">Pozitif-Normatif, Yokluk-Butlan, İkame-Tamamlayıcı, Komandite-Komanditer, Etnosantrizm-Rölativizm... Sınav sorularının en büyük çeldiricisi bu ikili ayrımlardır. 'Sınav Tuzakları' modülünü mutlaka ezberle.</p>
+        </div>
+        <div style="background:var(--bg-elevated); padding:1.5rem; border-radius:var(--radius-md); border-left:4px solid var(--warning);">
+          <h4 style="font-size:1.1rem; margin-bottom:0.5rem;">4. Flaş Kartlarla Terimleri Zihnine Kazı</h4>
+          <p style="font-size:0.9rem; color:var(--text-muted);">Her dersin en kritik 14 terimini içeren 3D interaktif kartları günde 10 dakika çevir. Tanımı gördüğün an terimi söyleyebilecek kıvama gel.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p style="font-weight:600; color:var(--text-main); margin-bottom:0.4rem;">İşletme Fakültesi Vize Hazırlık Portalı (100 Tam Puan Platformu)</p>
+      <p>4 Ders • 16 Ünite • 190+ Açıklamalı Soru • Çevrimdışı Çalışabilir Web Uygulaması</p>
+    </div>
+  </footer>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

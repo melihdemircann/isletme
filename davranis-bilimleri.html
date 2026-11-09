@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Davranış Bilimleri I - Vize 100 Hazırlık İstasyonu</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body data-course="davranis">
+  <canvas id="confetti-canvas"></canvas>
+  
+  <nav class="navbar">
+    <div class="container nav-container">
+      <a href="index.html" class="brand-link">
+        <div class="brand-icon">🎓</div>
+        <div>
+          <span>İşletme 100 Portalı</span>
+          <div style="font-size:0.75rem; color:var(--text-muted); font-weight:normal;">Vize Hazırlık & Başarı Merkezi</div>
+        </div>
+      </a>
+      <ul class="nav-links">
+        <li><a href="index.html" class="nav-link ">🏠 Ana Sayfa</a></li>
+        <li><a href="isletme-ilkeleri.html" class="nav-link ">💼 İşletme İlkeleri</a></li>
+        <li><a href="hukukun-temel-kavramlari.html" class="nav-link ">⚖️ Hukuk</a></li>
+        <li><a href="iktisada-giris.html" class="nav-link ">📈 İktisada Giriş</a></li>
+        <li><a href="davranis-bilimleri.html" class="nav-link active">🧠 Davranış Bilimleri</a></li>
+      </ul>
+      <div style="display:flex; align-items:center; gap:0.75rem;">
+        <button id="theme-toggle" class="theme-toggle-btn">🌙 Koyu Mod</button>
+      </div>
+    </div>
+  </nav>
+  
+
+  <header class="hero-section" style="padding: 2.25rem 0 1.5rem;">
+    <div class="container">
+      <div class="hero-badge">🧠 DAVRANIŞ BILIMLERI I • VİZE MÜFREDATI</div>
+      <h1 class="hero-title">Davranış Bilimleri I</h1>
+      <p class="hero-subtitle">Sosyolojiye giriş ve yöntem, sosyolojinin tarihsel gelişimi ve kuramsal yaklaşımlar (Comte, Marx, Durkheim, Weber), kültür ve kültürel değişme, aile ve toplumsal gruplar.</p>
+    </div>
+  </header>
+
+  <main class="container" style="margin-bottom: 4rem;">
+    <!-- Tabs Nav -->
+    <div class="tabs-nav">
+      <button class="tab-btn active" data-tab="exam">🏆 20 Soruluk Vize Denemesi</button>
+      <button class="tab-btn" data-tab="notes">📚 100 Aldıran Altın Özetler</button>
+      <button class="tab-btn" data-tab="practice">💡 Öğrenme & Pratik Testleri</button>
+      <button class="tab-btn" data-tab="cards">🗂️ Akıllı Flaş Kartlar</button>
+    </div>
+
+    <!-- TAB 1: EXAM SIMULATOR -->
+    <section id="panel-exam" class="tab-panel active">
+      <!-- Active Exam View -->
+      <div id="exam-active-view" class="exam-layout">
+        <div class="exam-card">
+          <div class="exam-header">
+            <span id="q-badge" class="question-badge">Soru 1 / 20</span>
+            <div id="exam-timer" class="timer-pill">⏱️ 30:00</div>
+          </div>
+
+          <div id="q-text" class="question-text">Soru yükleniyor...</div>
+          <div id="q-options" class="options-list"></div>
+
+          <div class="exam-actions">
+            <button id="btn-prev-q" class="btn btn-secondary" onclick="IsletmeApp.prevExamQuestion()">⬅️ Önceki</button>
+            <button id="btn-flag-q" class="btn btn-secondary" onclick="IsletmeApp.toggleFlagQuestion()">🚩 Gözden Geçir</button>
+            <button id="btn-next-q" class="btn btn-primary" onclick="IsletmeApp.nextExamQuestion()">Sonraki ➡️</button>
+          </div>
+        </div>
+
+        <!-- Sidebar Palette -->
+        <aside class="palette-card">
+          <div class="palette-title">
+            <span>Soru Navigasyonu</span>
+            <span style="font-size:0.8rem; font-weight:normal; color:var(--text-muted);">20 Soru</span>
+          </div>
+
+          <div id="exam-palette" class="palette-grid"></div>
+
+          <div class="palette-legend">
+            <div class="legend-item"><span class="legend-dot" style="background:var(--primary);"></span> <span>Cevaplandı</span></div>
+            <div class="legend-item"><span class="legend-dot" style="background:var(--bg-elevated); border:1px solid var(--border-color);"></span> <span>Boş Soru</span></div>
+            <div class="legend-item"><span class="legend-dot" style="background:var(--warning);"></span> <span>İşaretlenen (Bayrak)</span></div>
+          </div>
+
+          <button class="btn btn-primary" style="width:100%; margin-top:0.5rem;" onclick="IsletmeApp.finishExam()">Sınavı Tamamla 🏁</button>
+        </aside>
+      </div>
+
+      <!-- Exam Result View (Hidden Initially) -->
+      <div id="exam-result-view" style="display:none;"></div>
+    </section>
+
+    <!-- TAB 2: STUDY NOTES -->
+    <section id="panel-notes" class="tab-panel">
+      <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:1.5rem; flex-wrap:wrap; gap:1rem;">
+        <div>
+          <h2 style="font-size:1.5rem; font-weight:800;">4 Ünitenin Eksiksiz Vize Altın Notları</h2>
+          <p style="color:var(--text-muted); font-size:0.9rem;">Ders kitaplarından çıkarılmış, sınavda kesin çıkan kritik tanımlar ve sınav tuzakları.</p>
+        </div>
+        <button class="btn btn-secondary" onclick="window.print()">🖨️ Özetleri Yazdır / PDF İndir</button>
+      </div>
+
+      <div id="unit-accordions-container" class="unit-accordion"></div>
+    </section>
+
+    <!-- TAB 3: PRACTICE MODE -->
+    <section id="panel-practice" class="tab-panel">
+      <div class="practice-controls">
+        <div>
+          <h2 style="font-size:1.5rem; font-weight:800;">İnteraktif Soru Bankası & Konu Pekiştirme</h2>
+          <p style="color:var(--text-muted); font-size:0.9rem;">Şıkkı tıkla, anında doğru/yanlış durumunu ve kitabın çözüm açıklamasını gör.</p>
+        </div>
+        <div class="filter-group">
+          <button id="filter-u-all" class="btn btn-secondary filter-btn active" onclick="IsletmeApp.filterPracticeUnit('all')">Tüm Sorular (48)</button>
+          <button id="filter-u-1" class="btn btn-secondary filter-btn" onclick="IsletmeApp.filterPracticeUnit(1)">Ünite 1</button>
+          <button id="filter-u-2" class="btn btn-secondary filter-btn" onclick="IsletmeApp.filterPracticeUnit(2)">Ünite 2</button>
+          <button id="filter-u-3" class="btn btn-secondary filter-btn" onclick="IsletmeApp.filterPracticeUnit(3)">Ünite 3</button>
+          <button id="filter-u-4" class="btn btn-secondary filter-btn" onclick="IsletmeApp.filterPracticeUnit(4)">Ünite 4</button>
+        </div>
+      </div>
+
+      <div id="practice-list-container"></div>
+    </section>
+
+    <!-- TAB 4: FLASHCARDS -->
+    <section id="panel-cards" class="tab-panel">
+      <div style="text-align:center; max-width:650px; margin:0 auto 1rem;">
+        <h2 style="font-size:1.5rem; font-weight:800;">3D İnteraktif Kavram ve Terim Kartları</h2>
+        <p style="color:var(--text-muted); font-size:0.9rem;">Kartın üzerine tıklayarak çevirebilir, arka yüzündeki sınav tanımını inceleyebilirsin.</p>
+      </div>
+
+      <div class="flashcard-wrapper">
+        <div id="active-flashcard" class="flashcard" onclick="IsletmeApp.flipFlashcard()">
+          <!-- Front -->
+          <div class="card-face card-front">
+            <span id="card-front-tag" class="card-tag">Ünite 1</span>
+            <div class="card-content">
+              <div id="card-front-term" class="card-title">Kavram Adı</div>
+              <p style="color:var(--text-muted); font-size:0.9rem;">Tanımı görmek için karta dokun 🔄</p>
+            </div>
+            <div class="card-hint">👆 Tıkla ve Çevir</div>
+          </div>
+          <!-- Back -->
+          <div class="card-face card-back">
+            <span id="card-back-tag" class="card-tag">Ünite 1</span>
+            <div class="card-content">
+              <p id="card-back-def" class="card-body">Kavramın açıklaması burada yer alır.</p>
+            </div>
+            <div class="card-hint">🔄 Tekrar çevirmek için tıkla</div>
+          </div>
+        </div>
+
+        <div class="flashcard-controls">
+          <button class="btn btn-secondary" onclick="IsletmeApp.prevFlashcard()">⬅️ Önceki Kart</button>
+          <span id="card-progress-num" style="font-weight:700; color:var(--text-muted);">1 / 14</span>
+          <button class="btn btn-primary" onclick="IsletmeApp.nextFlashcard()">Sonraki Kart ➡️</button>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p style="font-weight:600; color:var(--text-main); margin-bottom:0.4rem;">Davranış Bilimleri I Vize Çalışma İstasyonu</p>
+      <p><a href="index.html" style="color:var(--primary); text-decoration:none;">← Ana Portala Dön</a> • Diğer Dersleri İncele</p>
+    </div>
+  </footer>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

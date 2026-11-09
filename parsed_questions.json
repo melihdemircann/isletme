@@ -1,0 +1,2109 @@
+{
+  "DAVRANIŞ BİLİMLERİ I": {
+    "Ünite 1": [
+      {
+        "num": 1,
+        "question": "Aşağıdakilerden hangisi sosyolojinin ilgi ala- nına giren konulardan biri değildir?",
+        "options": {
+          "A": "Aile",
+          "B": "Aşiretler",
+          "C": "Akıl sağlığı",
+          "D": "Kadına şiddet",
+          "E": "Dış göç"
+        },
+        "correct": "C",
+        "topic": "Sosyolojinin Diğer Sos-\nyal Bilimlerle İlişkisi"
+      },
+      {
+        "num": 2,
+        "question": "Bir ölçme aracının ölçmek istediğini doğru olarak ölçme yeteneğine ne ad verilir?",
+        "options": {
+          "A": "Güvenirlik",
+          "B": "Yeterlilik",
+          "C": "Doğruluk",
+          "D": "Geçerlilik",
+          "E": "Etik"
+        },
+        "correct": "D",
+        "topic": "Toplum ve Toplumsal\nYapı"
+      },
+      {
+        "num": 3,
+        "question": "Sosyolojik bakış açısı veya hayal gücü (imge- lem) aşağıdakilerden hangisi tarafından ileri sürül- müştür?",
+        "options": {
+          "A": "Simon",
+          "B": "Durkheim",
+          "C": "Bacon",
+          "D": "Mills",
+          "E": "Spencer"
+        },
+        "correct": "D",
+        "topic": "Sosyolojinin Araştırma\nYöntem ve Teknikleri"
+      },
+      {
+        "num": 4,
+        "question": "Aşağıdaki sosyologlardan hangisi “Sosyolo- jiye Davet” adlı kitabında toplumun insanları bir biçimde şekillendirdiğini ileri sürer?",
+        "options": {
+          "A": "P. Berger",
+          "B": "S. Simon",
+          "C": "E. Durkheim",
+          "D": "M. Weber",
+          "E": "A. Comte"
+        },
+        "correct": "A",
+        "topic": "Sosyolojinin Diğer Sos-\nyal Bilimlerle İlişkisi"
+      },
+      {
+        "num": 5,
+        "question": "Sistematik bir yöntemle olaylar arasındaki ilişkilerin incelenmesi ve bilgi toplanmasına ne ad verilir?",
+        "options": {
+          "A": "Bilim",
+          "B": "Yöntem",
+          "C": "Kuram",
+          "D": "Hipotez",
+          "E": "Önerme"
+        },
+        "correct": "A",
+        "topic": "Toplum ve Toplumsal\nYapı"
+      },
+      {
+        "num": 6,
+        "question": "Aşağıdakilerden hangisi sosyal bilimlerden biri değildir?",
+        "options": {
+          "A": "Sosyoloji",
+          "B": "Ekonomi",
+          "C": "Tarih",
+          "D": "Antropoloji",
+          "E": "Biyoloji"
+        },
+        "correct": "E",
+        "topic": "Sosyolojik Bakış Açısı"
+      },
+      {
+        "num": 7,
+        "question": "Aşağıdakilerden hangisi makro sosyolojik yaklaşımın ilgi alanıdır?",
+        "options": {
+          "A": "Bireylerin yüzyüze ilişkileri",
+          "B": "Asansörde insanların neden birbirlerinin ayak- larına baktıkları",
+          "C": "Bir toplumda yaşayan evsizlerin sosyal sınıflar içindeki yeri",
+          "D": "İnsanların cumartesi geceleri eğlence alışkan- lıkları",
+          "E": "İki nişanlı çiftin birbirleriyle kavga etmeleri"
+        },
+        "correct": "C",
+        "topic": "Neden Sosyoloji Çalışma-\nlıyız?"
+      },
+      {
+        "num": 8,
+        "question": "Aşağıdakilerden hangisi bilimsel yöntemin aşamalarından biri değildir?",
+        "options": {
+          "A": "Veri toplamak",
+          "B": "Verilerin analizini yapmak",
+          "C": "Sorunu tanımlamak",
+          "D": "Hipotezi formüle etmek",
+          "E": "Öznel değerlerden hareket etmek"
+        },
+        "correct": "E",
+        "topic": "Sosyolojinin Araştırma\nYöntem ve Teknikleri"
+      },
+      {
+        "num": 9,
+        "question": "Bir toplum içinde yaşayanların öğrendikleri ve paylaştıkları herşeye ne ad verilir?",
+        "options": {
+          "A": "Kültür",
+          "B": "Kurum",
+          "C": "Yapı",
+          "D": "Toplum",
+          "E": "Sınıf"
+        },
+        "correct": "A",
+        "topic": "Toplumsal Yapıyı Oluş-\nturan Parçalar"
+      },
+      {
+        "num": 10,
+        "question": "Aşağıdakilerden hangisi kazanılmış bir statü- ye örnektir?",
+        "options": {
+          "A": "Asalet",
+          "B": "Gençlik",
+          "C": "Yaşlılık",
+          "D": "Etnik yapı",
+          "E": "Avukatlık -- 24 of 28 -- Sosyolojiye Giriş ve Yöntemi 26"
+        },
+        "correct": "E",
+        "topic": ""
+      }
+    ],
+    "Ünite 2": [
+      {
+        "num": 1,
+        "question": "İbni Haldun’un en önemli eseri aşağıdakiler- den hangisidir?",
+        "options": {
+          "A": "Politika",
+          "B": "Toplumsal İşbölümü",
+          "C": "Kapital",
+          "D": "Mukaddime",
+          "E": "Sosyal Fizik"
+        },
+        "correct": "D",
+        "topic": "Sosyolojinin Kurucula-\nrı"
+      },
+      {
+        "num": 2,
+        "question": "St. Simon aşağıdakilerden hangisiyle nitelen- dirilmektedir?",
+        "options": {
+          "A": "Ütopyacı realist",
+          "B": "Ütopyacı kapitalist",
+          "C": "Ütopyacı sosyalist",
+          "D": "Ütopyacı feminist",
+          "E": "Ütopyacı pragmatist"
+        },
+        "correct": "C",
+        "topic": "Sembolik Etkileşimci Yak-\nlaşım"
+      },
+      {
+        "num": 3,
+        "question": "A.Comte’un evrimci düşüncesini en iyi yansı- tan kavram aşağıdakilerden hangisidir?",
+        "options": {
+          "A": "İki Hâl Yasası",
+          "B": "Üç Hâl Yasası",
+          "C": "Pozitif Felsefe Dersleri",
+          "D": "Sosyoloji Dersleri",
+          "E": "Anomi"
+        },
+        "correct": "B",
+        "topic": "İşlevselci/ Fonksiyonalist\nYaklaşım"
+      },
+      {
+        "num": 4,
+        "question": "Diyalektik düşüncenin temeli ilk olarak kim tarafından ortaya atılmıştır?",
+        "options": {
+          "A": "İbni Haldun",
+          "B": "Heraklit",
+          "C": "Fichte",
+          "D": "Simon",
+          "E": "Comte"
+        },
+        "correct": "B",
+        "topic": "Sosyolojinin Kurucula-\nrı"
+      },
+      {
+        "num": 5,
+        "question": "",
+        "options": {
+          "E": "Toplu intihar",
+          "A": "Elcil intihar",
+          "B": "Bencil intihar",
+          "C": "Anomik intihar",
+          "D": "Sosyal intihar"
+        },
+        "correct": "C",
+        "topic": "Çatışmacı Yaklaşım"
+      },
+      {
+        "num": 6,
+        "question": "Weber’e göre karizmatik otorite ne zaman or- taya çıkar?",
+        "options": {
+          "A": "Her zaman",
+          "B": "Olağanüstü durumlarda",
+          "C": "Geçmiş zamanlarda",
+          "D": "Modern zamanlarda",
+          "E": "Postmodern zamanlarda"
+        },
+        "correct": "B",
+        "topic": "Sosyolojinin Öncüleri"
+      },
+      {
+        "num": 7,
+        "question": "Aşağıdakilerden hangisi Sembolik Etkileşim- cilik Yaklaşımı’nın en çok beslendiği görüştür?",
+        "options": {
+          "A": "Pozitivizm",
+          "B": "Entivisyonizm",
+          "C": "Ampirizm",
+          "D": "Pragmatizm",
+          "E": "Modernizm"
+        },
+        "correct": "D",
+        "topic": "Sosyolojinin Öncüleri"
+      },
+      {
+        "num": 8,
+        "question": "Aşağıdakilerden hangisi Yapısal İşlevselcilik Yaklaşımı’nın en çok beslendiği kaynaktır?",
+        "options": {
+          "A": "Feminizm",
+          "B": "Pragmatizm",
+          "C": "Pozitivizm",
+          "D": "Rasyonalizm",
+          "E": "Ampirizm"
+        },
+        "correct": "C",
+        "topic": "Sosyolojinin Öncüleri"
+      },
+      {
+        "num": 9,
+        "question": "Çatışmacı yaklaşımın temel görüşleri aşağıda- ki kuramcılardan hangisinin görüşlerine dayanır?",
+        "options": {
+          "A": "E.Durkheim",
+          "B": "K. Marx",
+          "C": "M. Weber",
+          "D": "A.Comte",
+          "E": "F. Hegel"
+        },
+        "correct": "B",
+        "topic": "Feminizm ve Post-\nmodernizm"
+      },
+      {
+        "num": 10,
+        "question": "Sosyolojiye temel eleştiriler en çok kimlerden gelmiştir?",
+        "options": {
+          "A": "Sosyalistlerden",
+          "B": "Kapitalistlerden",
+          "C": "Ekonomistlerden",
+          "D": "Pozitivistlerden",
+          "E": "Feminist ve Post-modernistlerden -- 28 of 32 -- Sosyolojinin Tarihsel Gelişimi ve Kuramsal Yaklaşımlar 58"
+        },
+        "correct": "E",
+        "topic": ""
+      }
+    ],
+    "Ünite 3": [
+      {
+        "num": 1,
+        "question": "Aşağıdakilerden hangisi kültürün özellikle- rinden biri değildir?",
+        "options": {
+          "A": "Kültür paylaşılır.",
+          "B": "Kalıtım yoluyla geçer.",
+          "C": "Olduğu gibi kabul edilir.",
+          "D": "Semboliktir.",
+          "E": "Yer ve zamana göre değişir."
+        },
+        "correct": "B",
+        "topic": "Normlar"
+      },
+      {
+        "num": 2,
+        "question": "İnsanların deneyimlerini, fikirlerini ve bilgi- lerini açıklamada yardımcı olan en önemli kültür unsuru aşağıdakilerden hangisidir?",
+        "options": {
+          "A": "Değer",
+          "B": "Norm",
+          "C": "Gelenek",
+          "D": "Dil",
+          "E": "Jestler"
+        },
+        "correct": "D",
+        "topic": "Normlar"
+      },
+      {
+        "num": 3,
+        "question": "Kültürün belirlediği yerleşik davranış kuralla- rına ne ad verilir?",
+        "options": {
+          "A": "Değer",
+          "B": "Kurum",
+          "C": "Örf",
+          "D": "Norm",
+          "E": "Kanun"
+        },
+        "correct": "D",
+        "topic": "Normlar"
+      },
+      {
+        "num": 4,
+        "question": "Formal normlar aşağıdakilerden hangi biçim- de ortaya çıkar?",
+        "options": {
+          "A": "Hikayeler",
+          "B": "Ritüeller",
+          "C": "Kanunlar",
+          "D": "Giyim kuşam tarzları",
+          "E": "Adetler"
+        },
+        "correct": "C",
+        "topic": "Etnosantrizm"
+      },
+      {
+        "num": 5,
+        "question": "Kişinin kendi kültürünü temel gösterge ola- rak alıp diğer kültürleri kendi kültür açısından de- ğerlendirmesine ne ad verilir?",
+        "options": {
+          "A": "Karşıt kültür",
+          "B": "Etnosantrizm",
+          "C": "Kültür şoku",
+          "D": "Kültür boşluğu",
+          "E": "Kültürel birleşme"
+        },
+        "correct": "B",
+        "topic": "Alt Kültür"
+      },
+      {
+        "num": 6,
+        "question": "Normları adet (folkways) ve örfler (mores) şeklinde sınıflandıran sosyolog aşağıdakilerden hangisidir?",
+        "options": {
+          "A": "M. Weber",
+          "B": "R. Dahrendorf",
+          "C": "E. Durkheim",
+          "D": "A. Comte",
+          "E": "W. G. Sumner"
+        },
+        "correct": "E",
+        "topic": "Normlar"
+      },
+      {
+        "num": 7,
+        "question": "Bir grubun davranış standartlarını oluşturan ve günlük yaşamı yöneten kültür kalıbı aşağıdaki- lerden hangisidir?",
+        "options": {
+          "A": "Âdet",
+          "B": "Örf",
+          "C": "Gelenek",
+          "D": "Değer",
+          "E": "Yaptırım"
+        },
+        "correct": "A",
+        "topic": "Normlar"
+      },
+      {
+        "num": 8,
+        "question": "Normların öğrenildiği sürece ne ad verilir?",
+        "options": {
+          "A": "Küreselleşme",
+          "B": "Endüstrileşme",
+          "C": "Toplumsallaşma",
+          "D": "Kurumsallaşma",
+          "E": "Gruplaşma"
+        },
+        "correct": "C",
+        "topic": "Kültürü Oluşturan Par-\nçalar: Dil, Norm ve Değerler"
+      },
+      {
+        "num": 9,
+        "question": "İçinde bulunduğu toplumun bir parçası olup kendilerini diğer gruplardan ayıran özgün değer farklılıkları olan kültürlere ne ad verilir?",
+        "options": {
+          "A": "Baskın kültür",
+          "B": "Popüler kültür",
+          "C": "Yaygın kültür",
+          "D": "Karşıt kültür",
+          "E": "Alt kültür"
+        },
+        "correct": "E",
+        "topic": "Yüksek Kültür ve Popüler\nKültür"
+      },
+      {
+        "num": 10,
+        "question": "Toplum içinde özel bir yaşam biçimi, zevk ve alışkanlıkları olan küçük bir elit grubun sahip olduğu kültürün adı nedir?",
+        "options": {
+          "A": "Alt kültür",
+          "B": "Karşıt kültür",
+          "C": "Popüler kültür",
+          "D": "Yüksek kültür",
+          "E": "Halk kültürü -- 26 of 28 -- Kültür ve Kültürel Değişme 88"
+        },
+        "correct": "D",
+        "topic": ""
+      }
+    ],
+    "Ünite 4": [
+      {
+        "num": 1,
+        "question": "Anne-baba ve evlenmemiş çocuklardan olu- şan aileye ne ad verilir?",
+        "options": {
+          "A": "Geniş aile",
+          "B": "Ana ailesi",
+          "C": "Kök aile",
+          "D": "Baba ailesi",
+          "E": "Çekirdek aile"
+        },
+        "correct": "E",
+        "topic": "Evlilik Biçimleri ve Ana-\nlizleri"
+      },
+      {
+        "num": 2,
+        "question": "İç ve dış grup kavramı kim tarafından ileri sürülmüştür?",
+        "options": {
+          "A": "Murdock",
+          "B": "Litwak",
+          "C": "Hyman",
+          "D": "Sumner",
+          "E": "Schaefer"
+        },
+        "correct": "D",
+        "topic": "Evlilik Biçimleri ve Ana-\nlizleri"
+      },
+      {
+        "num": 3,
+        "question": "Bireyin davranışlarını ve kendini değerlendir- diği örnek aldığı gruba ne ad verilir?",
+        "options": {
+          "A": "İç grup",
+          "B": "Dış grup",
+          "C": "Referans grubu",
+          "D": "Birincil grup",
+          "E": "Sanal grup"
+        },
+        "correct": "C",
+        "topic": "Aile Kurumunu Açıkla-\nyan Sosyolojik Kuramlar"
+      },
+      {
+        "num": 4,
+        "question": "Aile ilişkilerinin zamanla değiştiğini ve yeni- den analiz edilmesi gerektiğini savunan, rol ve ben- lik kavramları üzerinde duran teorik yaklaşımın adı nedir?",
+        "options": {
+          "A": "Feminist kuram",
+          "B": "Çatışma kuramı",
+          "C": "Sembolik etkileşimcilik kuram",
+          "D": "Fonksiyonalist kuram",
+          "E": "Marksist kuram"
+        },
+        "correct": "C",
+        "topic": "Aile Nedir?"
+      },
+      {
+        "num": 5,
+        "question": "Çağdaş anlamda aile oluşturabilmek ve meşru çocuklara sahip olabilmek için gerekli olan şey aşa- ğıdakilerden hangisidir?",
+        "options": {
+          "A": "Yerleşim yeri",
+          "B": "Çocuklar",
+          "C": "Gelir",
+          "D": "Evlilik kurumu",
+          "E": "Otorite ilişkileri"
+        },
+        "correct": "D",
+        "topic": "Evlilik Biçimleri ve Ana-\nlizleri"
+      },
+      {
+        "num": 6,
+        "question": "Aile üyelerinin kendi aile ve akrabalarının dı- şından birisiyle evlenmesine ne ad verilir?",
+        "options": {
+          "A": "Endogami",
+          "B": "Patrilokalite",
+          "C": "Egzogami",
+          "D": "Matriyarki",
+          "E": "Patriyarki"
+        },
+        "correct": "C",
+        "topic": "Grup Türleri"
+      },
+      {
+        "num": 7,
+        "question": "Evlenen çiftlerin ana soyunun yanında otur- malarına veya yerleşmelerine ne ad verilir?",
+        "options": {
+          "A": "Patriyarki",
+          "B": "Egaliteryan",
+          "C": "Matrilokalite",
+          "D": "Endogami",
+          "E": "Egzogami"
+        },
+        "correct": "C",
+        "topic": "Aile Kurumunu Açıkla-\nyan Sosyolojik Kuramlar"
+      },
+      {
+        "num": 8,
+        "question": "Aşağıdakilerden hangi düşünür özel mülki- yetin ortaya çıkmasıyla birlikte tek eşli çekirdek ailenin ortaya çıktığını ileri sürmüştür?",
+        "options": {
+          "A": "Engels",
+          "B": "Murdock",
+          "C": "Litwak",
+          "D": "Hyman",
+          "E": "Spencer"
+        },
+        "correct": "A",
+        "topic": "Grup Türleri"
+      },
+      {
+        "num": 9,
+        "question": "Aşağıdakilerden hangi düşünür erkeğin çok kadınla evliliği olan poliginiyi en yaygın görülen evlilik olarak ifade etmiştir?",
+        "options": {
+          "A": "Litwak",
+          "B": "Parsons",
+          "C": "Cooley",
+          "D": "Murdock",
+          "E": "Durkheim"
+        },
+        "correct": "D",
+        "topic": "Günümüz Ailesinde\nFarklılıklar"
+      },
+      {
+        "num": 10,
+        "question": "“Aşka evet, evlilik belki” sloganı ne tür bir ai- lesel farklılığı Avrupa’da ifade etmektedir?",
+        "options": {
+          "A": "Tek eşle evlilik",
+          "B": "Eş cinsel evlilik",
+          "C": "Evlenmeden birlikte yaşama",
+          "D": "Tek ebeveynli evlilik",
+          "E": "Çekirdek aile evliliği -- 31 of 34 -- Davranış Bilimleri I 121"
+        },
+        "correct": "C",
+        "topic": ""
+      }
+    ]
+  },
+  "HUKUKUN TEMEL KAVRAMLARI": {
+    "Ünite 1": [
+      {
+        "num": 1,
+        "question": "Kişinin ailesi, arkadaşları veya diğer insanlarla arasındaki ilişki aşağıdaki kavramlardan hangisi ile ifade edilmektedir?",
+        "options": {
+          "A": "Düzen",
+          "B": "Sosyal ilişki",
+          "C": "Ahlak",
+          "D": "Görgü",
+          "E": "Çevre"
+        },
+        "correct": "B",
+        "topic": "Hukukta Yaptırım Tür-\nleri"
+      },
+      {
+        "num": 2,
+        "question": "Tanrı, insan ve diğer dünya ile ilişkileri dü- zenleyen, manevi nitelikte yaptırıma sahip sosyal düzen kuralı aşağıdakilerden hangisidir?",
+        "options": {
+          "A": "Hukuk kuralı",
+          "B": "Ahlak kuralı",
+          "C": "Görgü kuralı",
+          "D": "Örf Adet kuralı",
+          "E": "Din kuralı"
+        },
+        "correct": "E",
+        "topic": "Hukukta Yaptırım Tür-\nleri"
+      },
+      {
+        "num": 3,
+        "question": "Sosyal düzen kurallarına uyulmaması halinde gösterilen tepkiye ne ad verilir?",
+        "options": {
+          "A": "Ceza",
+          "B": "Kınama",
+          "C": "Uyarı",
+          "D": "İhtar",
+          "E": "Yaptırım"
+        },
+        "correct": "E",
+        "topic": "Hukukta Yaptırım Tür-\nleri"
+      },
+      {
+        "num": 4,
+        "question": "Hukuk kurallarını diğer sosyal düzen kuralla- rından ayıran ölçüt aşağıdakilerden hangisidir?",
+        "options": {
+          "A": "Yazılılık",
+          "B": "Sosyal ilişkileri düzenleme",
+          "C": "Maddî yaptırım",
+          "D": "Değişmezlik",
+          "E": "Süreklilik"
+        },
+        "correct": "C",
+        "topic": "Hukuk Kurallarının\nÖgeleri ve Özellikleri"
+      },
+      {
+        "num": 5,
+        "question": "Aşağıdakilerden hangisi hukuk kuralının özellliklerinden biri değildir?",
+        "options": {
+          "A": "Hukuk kurallarının, dinamik ve toplumun ih- tiyaçlarına göre değişebilir olması",
+          "B": "Hukuk kurallarının kişilerin dışa yansıyan dav- ranışlarını düzenlemesi.",
+          "C": "Hukuk kurallarının toplumsal barış, adalet ve hukuki güvenliği sağlaması.",
+          "D": "Hukuk kurallarının, genel olarak kişiler arasın- daki ilişkileri düzenlemesi.",
+          "E": "Hukuk kurallarının yaptırımının manevi nite- likte olması."
+        },
+        "correct": "E",
+        "topic": "Hukukta Yaptırım Tür-\nleri"
+      },
+      {
+        "num": 6,
+        "question": "Borç ilişkisinde borcunu kendi rızasıyla yeri- ne getirmeyen borçlunun devlet gücü aracılığıyla bu borcunu yerine getirmesini sağlayan yaptırım, aşağıdakilerden hangisidir?",
+        "options": {
+          "A": "Tazminat",
+          "B": "Ceza",
+          "C": "Cebri icra",
+          "D": "Yokluk",
+          "E": "Mutlak butlan"
+        },
+        "correct": "C",
+        "topic": "Yaptırım Kavramı ve Ta-\nrihçesi"
+      },
+      {
+        "num": 7,
+        "question": "Korkutma ile gerçekleştirilen bir hukuki iş- lem aşağıdaki yaptırım türlerinden hangisi ile ge- çersizdir?",
+        "options": {
+          "A": "Yokluk",
+          "B": "Kısmi butlan",
+          "C": "Mutlak butlan",
+          "D": "Nispi butlan",
+          "E": "İhtar"
+        },
+        "correct": "D",
+        "topic": "Hukuk Kuralları ve Di-\nğer Sosyal Düzen Kurallarının Ayrılması"
+      },
+      {
+        "num": 8,
+        "question": "(A) ve (B)’nin dini görevli huzurunda yap- tıkları nikahın hukuki yaptırımı aşağıdakilerden hangisidir?",
+        "options": {
+          "A": "Mutlak butlan",
+          "B": "Yokluk",
+          "C": "İptal edilebilirlik",
+          "D": "Kısmi butlan",
+          "E": "Nispi butlan"
+        },
+        "correct": "B",
+        "topic": "Din Kuralları"
+      },
+      {
+        "num": 9,
+        "question": "Hukuk kurallarına aykırı bir biçimde yapıl- mış idari işlemlerin idari yargı organlarınca orta- dan kaldırılması halinde ortaya çıkan yaptırım, aşağıdakilerden hangisidir?",
+        "options": {
+          "A": "İptal",
+          "B": "Yokluk",
+          "C": "Tazminat",
+          "D": "Ceza",
+          "E": "Butlan"
+        },
+        "correct": "A",
+        "topic": "Hukukta Yaptırım Tür-\nleri"
+      },
+      {
+        "num": 10,
+        "question": "Kanunun öngördüğü unsurlara sahip olan ve kanunun emredici hükümlerine aykırı olma- yan bir işlemin, o işlemi oluşturan iradelerden birindeki sakatlık sebebiyle geçersiz sayılması, aşağıdaki yaptırımlardan hangisi ile ifade edil- mektedir?",
+        "options": {
+          "A": "Kısmi butlan",
+          "B": "İptal",
+          "C": "Mutlak butlan",
+          "D": "Yokluk",
+          "E": "Nispi butlan -- 16 of 18 -- Sosyal Düzen Kuralları ve Hukuk 18"
+        },
+        "correct": "E",
+        "topic": ""
+      }
+    ],
+    "Ünite 2": [
+      {
+        "num": 1,
+        "question": "Devletin şeklini, kişilerin hak ve ödevlerini, devlet organlarını ve bu organların işleyişini düzen- leyen en genel, en soyut ve en güçlü hukuk kuralı aşağıdakilerden hangisidir?",
+        "options": {
+          "A": "Anayasa",
+          "B": "Kanun",
+          "C": "Uluslararası sözleşme",
+          "D": "Yönerge",
+          "E": "Yönetmelik"
+        },
+        "correct": "A",
+        "topic": "Hukuk Kurallarının\nTürleri"
+      },
+      {
+        "num": 2,
+        "question": "1982 Anayasası’na göre usulüne uygun ola- rak yürürlüğe konulmuş milletlerarası andlaşmalar (uluslararası sözleşmeler) …… hükmündedir. Buna göre ilgili boşluk, aşağıdaki kavramlardan hangisi ile doldurulmalıdır?",
+        "options": {
+          "A": "Yönerge",
+          "B": "Kanun",
+          "C": "Yönetmelik",
+          "D": "Örf adet kuralı",
+          "E": "Cumhurbaşkanlığı kararnamesi"
+        },
+        "correct": "B",
+        "topic": "Kanunların Zaman Ba-\nkımından Uygulanması"
+      },
+      {
+        "num": 3,
+        "question": "Aşağıdakilerden hangisi kanunun özeliklerin- den biri değildir?",
+        "options": {
+          "A": "Yazılı",
+          "B": "Genel",
+          "C": "Süreli",
+          "D": "Soyut",
+          "E": "Sürekli"
+        },
+        "correct": "C",
+        "topic": "Yorumda Kullanılan\nMantık İlkeleri"
+      },
+      {
+        "num": 4,
+        "question": "Aşağıdakilerden hangisi yönetmelik çıka- ramaz?",
+        "options": {
+          "A": "Adalet Bakanlığı",
+          "B": "Anadolu Üniversitesi",
+          "C": "Büyükşehir Belediyesi",
+          "D": "(A) Anonim Şirketi",
+          "E": "Sosyal Güvelik Kurumu"
+        },
+        "correct": "D",
+        "topic": "İçtihat Hukuku"
+      },
+      {
+        "num": 5,
+        "question": "Aşağıdakilerden hangisi hukukun tali kay- naklarından biridir?",
+        "options": {
+          "A": "Anayasa",
+          "B": "Kanun",
+          "C": "Yönerge",
+          "D": "Yönetmelik",
+          "E": "Bilimsel içtihatlar"
+        },
+        "correct": "E",
+        "topic": "Yorumda Kullanılan\nMantık İlkeleri"
+      },
+      {
+        "num": 6,
+        "question": "Nişanlanma evlenme vaadiyle olur (TMK m.118) şeklindeki hukuk kuralı, aşağıdaki hukuk ku- ralı türlerinden hangisi kapsamında değerlendirilir?",
+        "options": {
+          "A": "Tanımlayıcı",
+          "B": "Açıklayıcı",
+          "C": "Emredici",
+          "D": "Yorumlayıcı",
+          "E": "Tamamlayıcı"
+        },
+        "correct": "A",
+        "topic": "Kanunlar"
+      },
+      {
+        "num": 7,
+        "question": "(X) Kanununun ne zaman yürürlüğe girece- ğine ilişkin bir madde bulunmamaktadır. Bu durumda ilgili kanunun yürürlük tarihi aşağı- dakilerden hangisidir?",
+        "options": {
+          "A": "Resmî Gazete’de yayımlandığı gün",
+          "B": "Resmî Gazete’de yayımdan sonraki 45. gün",
+          "C": "Resmî Gazete’de yayımdan sonraki 40. gün",
+          "D": "Resmî Gazete’de yayımdan sonraki 35. gün",
+          "E": "Resmî Gazete’de yayımdan sonraki 30. gün"
+        },
+        "correct": "A",
+        "topic": "Yönetmelik"
+      },
+      {
+        "num": 8,
+        "question": "Bir olay ile ilgili olarak hukukun öngördüğü çözümün, bu olaya benzer özellikler taşıyan baş- ka bir olay bakımından da geçerli sayılması, hangi mantık ilkesi ile açıklanmaktadır?",
+        "options": {
+          "A": "Aksi ile kanıt",
+          "B": "Evleviyet",
+          "C": "Kıyas",
+          "D": "Tümden gelim",
+          "E": "Tüme varım"
+        },
+        "correct": "C",
+        "topic": "Uluslararası Sözleşme-\nler"
+      },
+      {
+        "num": 9,
+        "question": "Kıyas’ın uygulama alanı bulamadığı hukuk dalı aşağıdakilerden hangisidir?",
+        "options": {
+          "A": "Medeni hukuk",
+          "B": "Ticaret hukuku",
+          "C": "Borçlar hukuku",
+          "D": "Ceza hukuku",
+          "E": "Miras hukuku"
+        },
+        "correct": "D",
+        "topic": "Yorumda Kullanılan\nMantık İlkeleri"
+      },
+      {
+        "num": 10,
+        "question": "Çimlere basmanın yasak olduğu bir yerde, çimlere oturmanın da yasak olduğu sonucuna aşa- ğıdaki yorum ilkelerinden hangi ile ulaşılmaktadır?",
+        "options": {
+          "A": "Kıyas",
+          "B": "Aksi ile kanıt",
+          "C": "Tümden gelim",
+          "D": "Analoji",
+          "E": "Evleviyet -- 19 of 22 -- Hukukun Temel Kavramları 39"
+        },
+        "correct": "E",
+        "topic": ""
+      }
+    ],
+    "Ünite 3": [
+      {
+        "num": 1,
+        "question": "“Yargısal örnek kararların ana kaynak olduğu İngiliz Hukuku gibi bir hukuk kültüründe hukuki akıl yürütme ve kanıtlama örnek olayları kullanır- ken, temel kavramların kurucu nitelik taşıdığı Kıta Avrupası hukuklarında hukuki akıl yürütme ve ka- nıtlama genel kavramların özel durumlara uyarlan- masına ağırlık verecektir.” Metinde Kıta Avrupası ve İngiliz hukuku hangi yönden karşılaştırılmıştır?",
+        "options": {
+          "A": "Hukuk anlayışları",
+          "B": "Hukuk teknikleri",
+          "C": "Hukuk sistemleri",
+          "D": "Hukuk tarihleri",
+          "E": "Hukuk düzenlemeleri"
+        },
+        "correct": "B",
+        "topic": "Amerikan Hukuku"
+      },
+      {
+        "num": 2,
+        "question": "Aşağıdaki ifadelerden hangisi Gaius’un institutiones’i hakkında söylenemez?",
+        "options": {
+          "A": "Gaius’un institutiones’i, kişiler (personae), şeyler (res), borçlar (obligatione), aileler (familias) ve davalar (actiones) olmak üzere beş bölümdür.",
+          "B": "Gais’un institutiones’i günümüze intikal etmiştir.",
+          "C": "Gais’un institutiones’i corpus iuris civilis’te ye- ralan institutiones’lere de kaynaklık etmiştir.",
+          "D": "Yapıt hukuk kurum ve kavramlarını genelden özele gidecek şekilde ortaya koyar.",
+          "E": "Gaius’un institutiones’i, kişiler (personae), şey- ler (res) ve davalar (actiones) olmak üzere üç bölümdür."
+        },
+        "correct": "A",
+        "topic": "Sosyalist Hukuk Siste-\nmi"
+      },
+      {
+        "num": 3,
+        "question": "Özgür bir kimsenin Roma Hukukuna göre hak sahibi olabilmesinin koşulu nedir?",
+        "options": {
+          "A": "Belirli bir malvarlığına sahip olması",
+          "B": "Belirli bir yaşı doldurması",
+          "C": "Roma’da ikamet ediyor olması",
+          "D": "Aynı zamanda vatandaş olması",
+          "E": "Erkek olması"
+        },
+        "correct": "D",
+        "topic": "Kıta Avrupası Hukuk Sis-\ntemi"
+      },
+      {
+        "num": 4,
+        "question": "Aşağıdaki ifadelerdelerden hangisi Pandekt Hukuku kavramını açıklar?",
+        "options": {
+          "A": "Roma Hukukunun Amerika’nın bazı eyaletle- rinde etkili olmuş halidir.",
+          "B": "Roma Hukukunun İtalya’da Rönesansla birlikte yeniden ele alınmış halidir.",
+          "C": "Roma Hukukunun Almanya’da geçerli olduğu bölgenin ve zamanın gereklerine göre düzen- lenmiş halidir.",
+          "D": "Roma Hukukunun Gaius tarafından Institutiones’te işlenmiş halidir.",
+          "E": "Roma Hukukunun Bizans’ta zamanın gerekle- rine göre düzenlenmiş halidir."
+        },
+        "correct": "C",
+        "topic": "İngiliz Hukuku"
+      },
+      {
+        "num": 5,
+        "question": "Aşağıdakilerden hangisi Equity hukukunu açıklayan ifadedir?",
+        "options": {
+          "A": "Aşırı biçimsel formalitelere sahip olma yüzün- den Statute Law ortaya çıkmıştır.",
+          "B": "Common Law uygulamalarının aşırı biçimcili- ğinin adalet arayışını karşılamadaki yetersizliği- ni giderme gereksiniminden doğmuştur.",
+          "C": "Parlamentonun yasama faaliyetinin bir sonu- cudur.",
+          "D": "Önceki örnek kararları izleme zorunluluğu yoktur.",
+          "E": "Norman krallarının atadığı gezici yargıçların faaliyetinin ürünüdür."
+        },
+        "correct": "B",
+        "topic": "İslâm Hukuku"
+      },
+      {
+        "num": 6,
+        "question": "Amerikan hukukunun hangi özelliği onun modern hukuk tarihindeki özel yerini vurgular?",
+        "options": {
+          "A": "Batıya göç hareketi, hukuksuz bir toplumsal yaşam biçiminden hukuki bir yaşam biçimine geçişin yegane modern örneği olması",
+          "B": "Yüksek Mahkemenin yetkileri konusunda tu- tucu davranması",
+          "C": "Kongrenin yasama faaliyetine önem vermesi",
+          "D": "Önceki örnek kararlara uyma zorunluluğunun bulunması",
+          "E": "Kişisel hakların korunmasında etkili hukuki mekanizmalara sahip olması"
+        },
+        "correct": "A",
+        "topic": "Roma Hukukunun İlke-\nleri"
+      },
+      {
+        "num": 7,
+        "question": "Sosyalist toplum ilişkilerinin oluşturulması için araçsal bir değer taşıyan hukuka ilgililerin ita- ati hangi sosyalist hukuk ilkesinin içeriğini oluştu- rur?",
+        "options": {
+          "A": "Sosyalist Demokrasi",
+          "B": "Kollektivizm",
+          "C": "Demokratik Merkeziyetçilik",
+          "D": "Hukuk Devleti",
+          "E": "Sosyalist Yasallık"
+        },
+        "correct": "E",
+        "topic": "Pandekt Hukuku"
+      },
+      {
+        "num": 8,
+        "question": "Bir ülkede dağınık halde bulunan hukuk ku- rallarının ait oldukları hukuk dalına bağlı olarak derlenip sistemli bir bütünlüğe kavuşturulması et- kinliğine ne ad verilir?",
+        "options": {
+          "A": "Yayılma",
+          "B": "Benimseme",
+          "C": "Aktarma",
+          "D": "Tedvin",
+          "E": "Kültürleme -- 24 of 28 -- Hukuk Sistemleri ve Türk Hukuk Tarihi 66 neler öğrendik?"
+        },
+        "correct": "D",
+        "topic": "Roma Hukukunun İlke-\nleri"
+      },
+      {
+        "num": 9,
+        "question": "Fıkıhın insanlar arasındaki doğumdan ölüme her tür ve düzeydeki ilişkilerini inceleyen bölümü- ne ne ad verilir?",
+        "options": {
+          "A": "Muâmelât",
+          "B": "Münâkehat",
+          "C": "Münâkalat",
+          "D": "Münâcat",
+          "E": "Müçtehid"
+        },
+        "correct": "A",
+        "topic": "Cumhuriyet ve Türk\nHukuk Devrimi"
+      },
+      {
+        "num": 10,
+        "question": "Türkiye Cumhuriyeti’nin 1926’da İsviçre Medeni Kanununu benimsemesinin (iktibasının) amacı en iyi hangi kavram çiftiyle ifade olunabilir?",
+        "options": {
+          "A": "Batılılaşma ve dünyevileşme",
+          "B": "Bağımsızlık ve modernleşme",
+          "C": "Batılılaşma ve kalkınma",
+          "D": "Refah ve kalkınma",
+          "E": "Yenilenme ve dünyevileşme -- 25 of 28 -- Hukukun Temel Kavramları 67"
+        },
+        "correct": "B",
+        "topic": ""
+      }
+    ],
+    "Ünite 4": [
+      {
+        "num": 1,
+        "question": "Aşağıdakilerden hangi adlî yargı kolunda gö- revli mahkemelerden biri değildir?",
+        "options": {
+          "A": "Bölge adliye mahkemesi",
+          "B": "Çocuk mahkemesi",
+          "C": "Tüketici mahkemesi",
+          "D": "Vergi mahkemesi",
+          "E": "Yargıtay"
+        },
+        "correct": "D",
+        "topic": "Adlî Yargı"
+      },
+      {
+        "num": 2,
+        "question": "Cumhurbaşkanlığı kararnamesinin Anayasa’ya aykırı olması nedeniyle açılan iptal davasına aşağıda- ki mahkemelerden hangisinde bakılır?",
+        "options": {
+          "A": "Danıştay",
+          "B": "Anayasa Mahkemesi",
+          "C": "Uyuşmazlık Mahkemesi",
+          "D": "Yargıtay",
+          "E": "Bölge İdare Mahkemesi"
+        },
+        "correct": "B",
+        "topic": "Hukuk Mahkemeleri"
+      },
+      {
+        "num": 3,
+        "question": "Aşağıdakilerden hangi adlî yargı kolunda yer alan hukuk mahkemelerinden biri değildir?",
+        "options": {
+          "A": "Asliye ticaret mahkemesi",
+          "B": "Tüketici mahkemesi",
+          "C": "Trafik mahkemesi",
+          "D": "Sulh hukuk mahkemesi",
+          "E": "Aile mahkemesi"
+        },
+        "correct": "C",
+        "topic": "Uyuşmazlık Yargısı"
+      },
+      {
+        "num": 4,
+        "question": "Aşağıdakilerden hangisi idarî yargı kolundaki en üst mahkemedir?",
+        "options": {
+          "A": "Anayasa Mahkemesi",
+          "B": "Uyuşmazlık Mahkemesi",
+          "C": "Danıştay",
+          "D": "Yargıtay",
+          "E": "Sayıştay"
+        },
+        "correct": "C",
+        "topic": "Adlî Yargı"
+      },
+      {
+        "num": 5,
+        "question": "Aşağıdakilerden hangisi adlî yargı kolundaki özel hukuk mahkemelerinden biridir?",
+        "options": {
+          "A": "İcra mahkemesi",
+          "B": "Çocuk mahkemesi",
+          "C": "Sulh hukuk mahkemesi",
+          "D": "İdare mahkemesi",
+          "E": "Vergi mahkemesi"
+        },
+        "correct": "A",
+        "topic": "İdari Yargı"
+      },
+      {
+        "num": 6,
+        "question": "Her türlü idarî eylem ve işlemler ile idarenin sorumlu olduğu diğer sebeplerin yol açtığı vücut bütünlüğünün kısmen veya tamamen yitirilmesine yahut kişinin ölümüne bağlı maddî ve manevi za- rarların tazminine ilişkin davalara aşağıdaki mah- kemelerden hangisinde bakılır?",
+        "options": {
+          "A": "Bölge adliye mahkemesi",
+          "B": "İdare Mahkemesi",
+          "C": "Danıştay",
+          "D": "Bölge idare mahkemesi",
+          "E": "Asliye hukuk mahkemesi"
+        },
+        "correct": "B",
+        "topic": "Adlî Yargı"
+      },
+      {
+        "num": 7,
+        "question": "Aşağıdakilerden hangisi, birden fazla hâkimden oluşan ve heyet halinde çalışan toplu mahkemelerden biri değildir?",
+        "options": {
+          "A": "Ağır ceza mahkemesi",
+          "B": "İdare mahkemesi",
+          "C": "Bölge adliye mahkemesi",
+          "D": "Asliye hukuk mahkemesi",
+          "E": "Danıştay"
+        },
+        "correct": "D",
+        "topic": "İdari Yargı"
+      },
+      {
+        "num": 8,
+        "question": "Aşağıdakilerden hangisi adlî ve idarî yargı mercileri arasındaki görev ve hüküm uyuşmazlık- larını kesin olarak çözmekle görevli ve yetkili yük- sek yargı merciidir?",
+        "options": {
+          "A": "Anayasa mahkemesi",
+          "B": "Avrupa İnsan Hakları Mahkemesi",
+          "C": "Yargıtay",
+          "D": "Danıştay",
+          "E": "Uyuşmazlık Mahkemesi"
+        },
+        "correct": "E",
+        "topic": "Anayasa Yargısı"
+      },
+      {
+        "num": 9,
+        "question": "İdari yargı kolunda, birden fazla idare veya vergi mahkemesi kurulduğu takdirde, bu mahke- meler arasındaki işbölümü aşağıdaki mercilerden hangisi tarafından belirlenir?",
+        "options": {
+          "A": "Danıştay",
+          "B": "Adalet Bakanlığı",
+          "C": "Hakimler ve Savcılar Kurulu",
+          "D": "Uyuşmazlık Mahkemesi",
+          "E": "Yargıtay"
+        },
+        "correct": "C",
+        "topic": "Anayasa Yargısı"
+      },
+      {
+        "num": 10,
+        "question": "Aşağıdakilerden hangisi Anayasa Mahkemesi’nin görevlerinden biri değildir?",
+        "options": {
+          "A": "Yüce Divan sıfatıyla yargılama yapmak",
+          "B": "Gönderilen kanun tasarıları ve teklifleri hak- kında görüş bildirmek",
+          "C": "Siyasi partilerin devlet yardımından yoksun bı- rakılmasına ilişkin davaları karara bağlamak",
+          "D": "Mahkeme üyeleri arasından Uyuşmazlık Mah- kemesi başkanı ve başkanvekilini seçmek",
+          "E": "Temel hak ve hürriyetlerin ihlali nedeniyle ya- pılan bireysel başvuruları karara bağlamak -- 20 of 22 -- Yargı Örgütü 90"
+        },
+        "correct": "B",
+        "topic": ""
+      }
+    ]
+  },
+  "İKTİSADA GİRİŞ I": {
+    "Ünite 1 (1)": [
+      {
+        "num": 1,
+        "question": "İnsan ihtiyaçlarının sonsuz ve bu ihtiyaçları karşılayacak kaynakların sınırlı olması aşağıdaki olgulardan hangisini zo- runlu kılar?",
+        "options": {
+          "A": "Tercih yapma",
+          "B": "Fiyatlarda artış",
+          "C": "Üretim faaliyeti",
+          "D": "Ticari faaliyetler",
+          "E": "Finans sorunu"
+        },
+        "correct": "A",
+        "topic": "İktisadın Tanımı"
+      },
+      {
+        "num": 2,
+        "question": "İktisadın bir sosyal bilim olarak değerlendirilmesinin ne- deni aşağıdakilerden hangisidir?",
+        "options": {
+          "A": "Elde edilen sonuçların kontrollü deneylere dayandı- rılması",
+          "B": "Laboratuvar ortamına sahip olması",
+          "C": "İnsan davranışlarını incelemesi",
+          "D": "İktisadi ilkelerin deneysel bulgulara dayandırılması",
+          "E": "Teknik ve sayısal yöntemler kullanmaya elverişli ol- maması"
+        },
+        "correct": "C",
+        "topic": "İktisadın Tanımı"
+      },
+      {
+        "num": 3,
+        "question": "Tercih yapmak veya karar almak durumunda olan bir ik- tisadi birimin kendi hedefine uygun biçimde hareket etmesi aşağıdaki iktisadi düşünme ilkelerinden hangisini ifade eder?",
+        "options": {
+          "A": "Karar alma",
+          "B": "Rasyonel davranış",
+          "C": "Marjinal analiz",
+          "D": "Nedensellik",
+          "E": "Tümleme"
+        },
+        "correct": "B",
+        "topic": "Rasyonel Davranış"
+      },
+      {
+        "num": 4,
+        "question": "İktisat literatüründe bir değişkenin değerinin en yüksek düzeye çıkarılmasına ne ad verilir?",
+        "options": {
+          "A": "Maksimizasyon",
+          "B": "Minimizasyon",
+          "C": "Faktörizasyon",
+          "D": "Tümleme",
+          "E": "İndirgeme"
+        },
+        "correct": "A",
+        "topic": "İktisadi Düşünme Tarzı"
+      },
+      {
+        "num": 5,
+        "question": "I. Aynı çatı altında yasama II. Aralarında akrabalık bağı bulunma III. Ortak finansal kararlar alma Yukarıdakilerden hangileri, hanehalkı kavramının özellikleri arasında yer alır?",
+        "options": {
+          "A": "Yalnız I",
+          "B": "I ve II",
+          "C": "I ve III",
+          "D": "II ve III",
+          "E": "I, II ve III"
+        },
+        "correct": "C",
+        "topic": "Ekonomik Aktörler"
+      },
+      {
+        "num": 6,
+        "question": "Bir öğrenci iktisat çalışmak için her gün bir saat daha fazla zaman ayırmanın yararını, bir saat daha az uyumanın maliyetinden daha yüksek bularak çalışma kararı alırsa, aşa- ğıdaki iktisadi düşünme tarzı ilkelerinden hangisine göre ha- reket etmiş olur?",
+        "options": {
+          "A": "Tümevarım",
+          "B": "Rasyonel davranma",
+          "C": "Ceteris paribus",
+          "D": "Marjinal analiz",
+          "E": "Hipotez testi"
+        },
+        "correct": "D",
+        "topic": "Marjinal Analiz"
+      },
+      {
+        "num": 7,
+        "question": "Bir iktisadi olgu incelenirken, bu olguyu etkileyen değiş- kenlerden belirli bir tanesinin değiştiğinin, diğer değişkenle- rin ise sabit kaldığının varsayılmasına ne ad verilir?",
+        "options": {
+          "A": "Tümevarım",
+          "B": "Tümdengelim",
+          "C": "Korelasyon",
+          "D": "Ceteris Paribus",
+          "E": "Nedensellik"
+        },
+        "correct": "D",
+        "topic": "İktisadi Düşünme Tarzında Ya-\npılan Hatalar"
+      },
+      {
+        "num": 8,
+        "question": "“Bir grup bireylerden oluştuğuna göre, birey için doğru olan grup için de doğrudur” ifadesi aşağıdaki yanılgılardan hangisine örnektir?",
+        "options": {
+          "A": "Korelasyon hatası",
+          "B": "Bireysel yanılgı",
+          "C": "Geleneksel hata",
+          "D": "Nedensellik hatası",
+          "E": "Tümleme yanılgısı"
+        },
+        "correct": "E",
+        "topic": "İktisadi Düşünme Tarzında Ya-\npılan Hatalar"
+      },
+      {
+        "num": 9,
+        "question": "Bir firmanın üretim miktarının belirlenmesi aşağıdaki iktisat bölümlerinden hangisinin konusudur?",
+        "options": {
+          "A": "Makro iktisat",
+          "B": "Mikro iktisat",
+          "C": "Sayısal iktisat",
+          "D": "Diferansiyel iktisat",
+          "E": "Politik iktisat"
+        },
+        "correct": "B",
+        "topic": "İktisadın Bölümleri"
+      },
+      {
+        "num": 10,
+        "question": "İşsizlikle ilgili aşağıdaki araştırma başlıklarından hangisi normatif iktisat kapsamına girer?",
+        "options": {
+          "A": "İşsizliğin üretim hacmi üzerindeki etkileri",
+          "B": "Enflasyon ve işsizlik arasındaki ilişkiler",
+          "C": "İşsizlikle toplumsal suçlar ili ilişkisi",
+          "D": "İşsizlikle mücadele edilmeli midir?",
+          "E": "İşsizliğin maliyeti -- 15 of 24 -- 1. Ünite - İktisadı Neden Öğrenmeliyiz? 17 Yaşamın İçinden"
+        },
+        "correct": "D",
+        "topic": "Pozitif ve Normatif Analiz Yön-\ntemi"
+      }
+    ],
+    "Ünite 2": [
+      {
+        "num": 1,
+        "question": "Bir maldan bir birim daha fazla üretmek için diğer mal- dan ne ölçüde vazgeçilmesi gerektiğini gösteren oran aşağı- dakilerden hangisidir?",
+        "options": {
+          "A": "Marjinal maliyet oranı",
+          "B": "Marjinal verimlilik oranı",
+          "C": "Fırsat maliyeti",
+          "D": "Ortalama maliyet",
+          "E": "Marjinal dönüşüm oranı"
+        },
+        "correct": "E",
+        "topic": "Üretim İmkanları Sınırı"
+      },
+      {
+        "num": 2,
+        "question": "Bireyin belirli bir zamanda bir maldan bir birim daha fazla tüketmesi sonucunda toplam faydada ortaya çıkan de- ğişmeye ne ad verilir? a Marjinal verimlilik",
+        "options": {
+          "B": "Toplam fayda",
+          "C": "Marjinal fayda",
+          "D": "Marjinal maliyet",
+          "E": "Alternatif maliyet"
+        },
+        "correct": "C",
+        "topic": "Tercih ve Fayda"
+      },
+      {
+        "num": 3,
+        "question": "Mevcut üretim faktörleri ve üretim teknolojisi veri iken belli dönemde ekonominin maksimum düzeyde üretimi gerçekleştirebileceği çıktı bileşimlerini gösteren eğriye ne ad verilir?",
+        "options": {
+          "A": "Talep eğrisi",
+          "B": "Arz eğrisi",
+          "C": "Toplam fiziki ürün eğrisi",
+          "D": "Marjinal maliyet eğrisi",
+          "E": "Üretim imkânları eğrisi"
+        },
+        "correct": "E",
+        "topic": "Üretim İmkanları Sınırı "
+      },
+      {
+        "num": 4,
+        "question": "Aşağıdaki durumlardan hangisinde birey x malı tüketimi için maksimum faydaya ulaşır?",
+        "options": {
+          "A": "MUx > Px",
+          "B": "MUx < Px",
+          "C": "MUx > MCx",
+          "D": "MUx = Px",
+          "E": "MUx < MCx"
+        },
+        "correct": "D",
+        "topic": "Tercih ve Fayda"
+      },
+      {
+        "num": 5,
+        "question": "Piyasa mekanizması ile ilgili aşağıdaki ifadelerden hangi- si yanlıştır?",
+        "options": {
+          "A": "Kapitalizmin kullandığı araçlardır",
+          "B": "Fiyat mekanizmasını içerir",
+          "C": "Tüketiciler ve üreticiler kendi çıkarlarını düşünürler",
+          "D": "Toprak ve sermaye özel kişilerin mülkiyetinde değildir",
+          "E": "Merkezi plancılık yoktur"
+        },
+        "correct": "D",
+        "topic": "Kıtlık ve Tercih"
+      },
+      {
+        "num": 6,
+        "question": "Bir malın üretimi arttırıldıkça alternatif maliyetin yük- selmesinin nedeni aşağıdakilerden hangisidir?",
+        "options": {
+          "A": "Üretimde kullanılan kaynakların birbirinin yerini tam olarak tutmaları",
+          "B": "Ürün dönüşüm eğrisinin orijine dış bükey olması",
+          "C": "Üretim imkânları eğrisinin orijine iç bükey olması",
+          "D": "Üretim imkânları eğrisinin pozitif eğimli olması",
+          "E": "Dönüşüm eğrisinin dik olması"
+        },
+        "correct": "C",
+        "topic": "Üretim İmkanları Sınırı"
+      },
+      {
+        "num": 7,
+        "question": "Aşağıdakilerden hangisi üretim faktörleri arasında yer almaz?",
+        "options": {
+          "A": "Toprak",
+          "B": "Sermaye",
+          "C": "Girişim",
+          "D": "Emek",
+          "E": "Amortisman"
+        },
+        "correct": "E",
+        "topic": "Kıtlık ve Tercih"
+      },
+      {
+        "num": 8,
+        "question": "Aşağıdakilerden hangisi bir malın kullanılan miktarı eşit birimler halinde artırıldığında her yeni birimin sağladığı ek faydanın bir önceki birimin sağladığından küçük olacağını ifade eder?",
+        "options": {
+          "A": "Fayda kanunu",
+          "B": "Marjinal fayda kanunu",
+          "C": "Talep kanunu",
+          "D": "Azalan verim kanunu",
+          "E": "Azalan marjinal fayda kanunu"
+        },
+        "correct": "E",
+        "topic": "Tercih ve Fayda"
+      },
+      {
+        "num": 9,
+        "question": "Toplam fayda düşerken marjinal fayda ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+        "options": {
+          "A": "Yükselir",
+          "B": "Değişmez ve sıfıra eşittir",
+          "C": "Değişmez ve sıfırdan büyüktür",
+          "D": "Azalandır ve sıfırdan büyüktür",
+          "E": "Azalandır ve sıfırdan küçüktür"
+        },
+        "correct": "E",
+        "topic": "Tercih ve Fayda"
+      },
+      {
+        "num": 10,
+        "question": "Aşağıdakilerden hangisi üniversiteye gitmenin fırsat ma- liyetlerinden biri değildir?",
+        "options": {
+          "A": "Üniversite harçları",
+          "B": "Üniversiteye gitmeme durumunda çalışılacak bir iş- ten sağlanacak gelir",
+          "C": "Üniversiteye giderken yapılan yiyecek giderleri",
+          "D": "Ders çalışmak için kullanılan zamanın, alternatif alanlarda kullanımı",
+          "E": "Üniversitede dersler için yapılan kitap ve kırtasiye harcamaları -- 20 of 22 -- İktisada Giriş I 46"
+        },
+        "correct": "C",
+        "topic": "Seçim ve Fırsat Maliyet"
+      }
+    ],
+    "Ünite 3": [
+      {
+        "num": 1,
+        "question": "Talep kanununa göre diğer faktörler sabitken bir mal- dan talep edilen miktarı aşağıdakilerden hangisine bağlı ola- rak değişme gösterir?",
+        "options": {
+          "A": "Malın kendi fiyatındaki değişmeye",
+          "B": "Tüketici gelirlerindeki değişmeye",
+          "C": "İlişkili malların fiyatlarındaki değişmeye",
+          "D": "Tüketicilerin zevk ve tercihlerindeki değişmeye",
+          "E": "Tüketicilerin sayısındaki değişmeye"
+        },
+        "correct": "A",
+        "topic": "Talep"
+      },
+      {
+        "num": 2,
+        "question": "Diğer faktörler sabitken iken normal bir malın fiyatın- daki bir düşüş aşağıdakilerden hangisine neden olur?",
+        "options": {
+          "A": "Malın talep eğrisinin sola kaymasına.",
+          "B": "Mal talep eğrisi boyunca aşağı yönlü bir hareketlenmeye",
+          "C": "Mal talep eğrisinin sağa kaymasına",
+          "D": "Mal talep eğrisi boyunca yukarı yönlü bir hareketlenmeye",
+          "E": "İkame malın talebinde artışa"
+        },
+        "correct": "B",
+        "topic": "Talep Eğrisi"
+      },
+      {
+        "num": 3,
+        "question": "Tavuk eti ve balık etinin birbirinin yakın ikamesi olduğu durumda tavuk eti fiyatındaki bir düşüş balık eti talep eğri- sinde nasıl bir değişime neden olur?",
+        "options": {
+          "A": "Balık eti talep eğrisi üzerinde yukarı yönlü bir hare- ketlenmeye",
+          "B": "Balık eti talep eğrisi üzerinde aşağı yönlü bir hareket- lenmeye",
+          "C": "Balık eti talep eğrisinin bir bütün olarak sağa kaymasına",
+          "D": "Balık eti talep eğrisinin bir bütün olarak sola kaymasına",
+          "E": "Balık eti talep eğrisinin dikey hale gelmesine"
+        },
+        "correct": "D",
+        "topic": "Talep Eğrisinde Kaymalar"
+      },
+      {
+        "num": 4,
+        "question": "Köfte ile patates kızartmasının tamamlayıcı mal olduğu varsayımı ile köftenin fiyatındaki azalış ,aşağıdakilerden han- gisine neden olur?",
+        "options": {
+          "A": "Köftenin talep edilen miktarının azalmasına",
+          "B": "Köfteye ait talep eğrisinin sola kaymasına",
+          "C": "Köfteye ait talep eğrisinin sağa kaymasına",
+          "D": "Patates kızartmasının talep eğrisinin sola kaymasına",
+          "E": "Patates kızartmasının talep eğrisinin sağa kaymasına"
+        },
+        "correct": "E",
+        "topic": "Talep Eğrisinde Kaymalar"
+      },
+      {
+        "num": 5,
+        "question": "Gelir arttıkça talebi artan ve gelir azaldıkça talebi azalan mallara ne ad verilir?",
+        "options": {
+          "A": "Tamamlayıcı mallar",
+          "B": "İkame mallar",
+          "C": "Normal mallar",
+          "D": "Düşük mallar",
+          "E": "Giffen mallar"
+        },
+        "correct": "C",
+        "topic": "Talep Eğrisinde Kaymalar"
+      },
+      {
+        "num": 6,
+        "question": "Üretim teknolojisinde etkinliği arttırıcı yönde meydana gelen bir gelişme aşağıdakilerden hangisine neden olur?",
+        "options": {
+          "A": "Arz eğrisi üzerinde aşağı doğru hareketlenmeye",
+          "B": "Arz eğrisi üzerinde yukarı doğru hareketlenmeye",
+          "C": "Arz eğrisi bir bütün olarak sola kaymasına",
+          "D": "Her bir fiyat düzeyinde firmaların arz ettiği mal mik- tarı azalmasına",
+          "E": "Arz eğrisi bir bütün olarak sağa kaymasına."
+        },
+        "correct": "E",
+        "topic": "Arz Eğrisinde Kaymalar"
+      },
+      {
+        "num": 7,
+        "question": "’nin talep edilen mal miktarını, ’in de arz edilen mal miktarını gösterdiği varsayımıyla aşağıdaki durumlar- dan hangisinde piyasada “kıtlık” meydana gelir. a. b. c. d. e.",
+        "options": {},
+        "correct": "B",
+        "topic": "Piyasa Dengesi"
+      },
+      {
+        "num": 8,
+        "question": "Aşağıdakilerden hangisi piyasa arz eğrisinin sağa ya da sola kaymasına neden olmaz?",
+        "options": {
+          "A": "Malın piyasa fiyatı",
+          "B": "Vergiler",
+          "C": "Sübvansiyonlar",
+          "D": "Üretici beklentileri",
+          "E": "Üretim maliyetleri"
+        },
+        "correct": "A",
+        "topic": "Arz"
+      },
+      {
+        "num": 9,
+        "question": "’nin talep edilen mal miktarını, ’in de arz edilen mal miktarını gösterdiği varsayımıyla aşağıdaki durumlardan hangisinde piyasada “artık” meydana gelir. a. b. c. d. e.",
+        "options": {},
+        "correct": "D",
+        "topic": "Piyasa Dengesi"
+      },
+      {
+        "num": 10,
+        "question": "Negatif eğimli talep eğrisi ve pozitif eğimli arz eğrisi geçerli iken; talep eğrisinin sağa, arz eğrisinin sola eşit mik- tarlarda kayması durumunda denge fiyat ve miktarı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+        "options": {
+          "A": "Denge fiyatı düşer, denge miktarı değişmez.",
+          "B": "Denge fiyatı değişmez,denge miktarı düşer.",
+          "C": "Denge fiyatı yükselir, denge miktarı değişmez.",
+          "D": "Denge fiyatı düşer, denge miktarı yükselir.",
+          "E": "Denge fiyatı değişmez, denge miktarı yükselir -- 24 of 26 -- İktisada Giriş I 72"
+        },
+        "correct": "C",
+        "topic": "Arz ve Talep Eğrilerinde\nBirlikte Kaymalar"
+      }
+    ],
+    "Ünite 4": [
+      {
+        "num": 1,
+        "question": "Bir ekonomik değişkenin başka bir ekonomik değişkene karşı olan duyarlılığını ölçen kavram aşağıdakilerden hangi- sidir?",
+        "options": {
+          "A": "Maliyet",
+          "B": "Fayda",
+          "C": "Marjinal fayda",
+          "D": "Esneklik",
+          "E": "Alternatif maliyet"
+        },
+        "correct": "D",
+        "topic": " Giriş "
+      },
+      {
+        "num": 2,
+        "question": "Ekonomide bir malın talep edilen miktarının başka bir malın fiyatına karşı duyarlılığına ne ad verilir?",
+        "options": {
+          "A": "Talebin fiyat esnekliği",
+          "B": "Talebin gelir esnekliği",
+          "C": "Çapraz fiyat talep esnekliği",
+          "D": "Arz esnekliği",
+          "E": "Talebin beklenti esnekliği"
+        },
+        "correct": "C",
+        "topic": " Talepteki Kaymalara İlişkin Es-\nneklikler"
+      },
+      {
+        "num": 3,
+        "question": "Talebin fiyat esnekliğinin formülü aşağıdakilerden han- gisidir?",
+        "options": {
+          "A": "%∆Q / %∆P",
+          "B": "%∆P / %∆Q",
+          "C": "∆Q / ∆P",
+          "D": "∆P / ∆Q",
+          "E": "%∆Q / %∆I"
+        },
+        "correct": "A",
+        "topic": " Talebin Fiyat Esnekliği"
+      },
+      {
+        "num": 4,
+        "question": "Bir malın fiyatı % 20 artınca miktarı % 40 azalıyorsa, bu mala ilişkin talebin fiyat esnekliği değeri kaçtır?",
+        "options": {
+          "A": "0.5",
+          "B": "1",
+          "C": "2",
+          "D": "3",
+          "E": "6"
+        },
+        "correct": "C",
+        "topic": "Talebin Fiyat Esnekliği"
+      },
+      {
+        "num": 5,
+        "question": "Aşağıdakilerden hangisi bir ürünün talep fiyat esnekliği- ni etkileyen unsurlardan biri değildir?",
+        "options": {
+          "A": "Ürünün tüketici bütçesindeki yeri",
+          "B": "Zorunlu ya da lüks mal olması",
+          "C": "Ürünün üretim yeri",
+          "D": "Kısa veya uzun dönem olması",
+          "E": "Ürünün ikame edilebilirlik derecesi"
+        },
+        "correct": "C",
+        "topic": "Talebin Fiyat Esnekliği"
+      },
+      {
+        "num": 6,
+        "question": "Talebin gelir esnekliğinin formülü aşağıdakilerden han- gisidir?",
+        "options": {
+          "A": "%∆Q / %∆P",
+          "B": "%∆I / %∆Q",
+          "C": "∆I / ∆P",
+          "D": "∆P / ∆Q",
+          "E": "%∆Q / %∆I"
+        },
+        "correct": "E",
+        "topic": "Talepteki Kaymalara İlişkin Es-\nneklikler"
+      },
+      {
+        "num": 7,
+        "question": "X malı fiyatındaki değişimler karşısında x malı talep miktarı değişmiyorsa aşağıdakilerden hangisi doğrudur?",
+        "options": {
+          "A": "Ed = 1",
+          "B": "Ed > 1",
+          "C": "Ed = 0",
+          "D": "Ed = ∞",
+          "E": "Ed < 1"
+        },
+        "correct": "C",
+        "topic": "Talebin Fiyat Esnekliği"
+      },
+      {
+        "num": 8,
+        "question": "Doğrusal bir talep eğrisi üzerinde esneklikle ilgili aşağı- daki ifadelerden hangisi doğrudur?",
+        "options": {
+          "A": "Esneklik denklemindeki eğim eğrinin her noktasın- da aynıdır.",
+          "B": "Eğrinin tam orta noktasında esneklik katsayısı sıfıra eşittir.",
+          "C": "Orta noktadan fiyat eksenine doğru ilerledikçe es- neklik değeri sıfıra yaklaşır.",
+          "D": "Orta noktadan miktar eksenine doğru ilerledikçe es- neklik değeri sonsuza yaklaşır.",
+          "E": "Eğri üzerindeki her noktada esneklik 1’e eşittir."
+        },
+        "correct": "A",
+        "topic": "Talebin Fiyat Esnekliği"
+      },
+      {
+        "num": 9,
+        "question": "Talep eğrisinin her noktasında esneklik katsayısının son- suz olma sı durumunda talep eğrisi ile ilgili aşağıdaki ifade- lerden hangisi doğrudur?",
+        "options": {
+          "A": "Fiyat eksenine paralel bir doğrudur.",
+          "B": "Miktar eksenine paralel bir doğrudur.",
+          "C": "Soldan sağa belirli bir kavisle alçalır.",
+          "D": "Pozitif eğimlidir.",
+          "E": "Negatif eğimlidir."
+        },
+        "correct": "B",
+        "topic": "Talebin Fiyat Esnekliği"
+      },
+      {
+        "num": 10,
+        "question": "Arz eğrisinin her noktasında esneklik katsayısının sıfır olması durumunda, arz eğrisi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+        "options": {
+          "A": "Fiyat eksenine paralel bir doğrudur.",
+          "B": "Miktar eksenine paralel bir doğrudur.",
+          "C": "Soldan sağa belirli bir kavisle alçalır.",
+          "D": "Orijinden 45° lik bir açıyla çıkar.",
+          "E": "Negatif eğimlidir. -- 19 of 22 -- 4. Ünite - Esneklik 93"
+        },
+        "correct": "A",
+        "topic": "Arz Esnekliği"
+      }
+    ]
+  },
+  "İŞLETME İLKELERİ": {
+    "Ünite 1": [
+      {
+        "num": 1,
+        "question": "Kişilerin tek başlarına gerçekleştiremeye- cekleri amaçları, başkaları ile bir araya gelerek ve bilgi ve yeteneklerini birleştirerek gerçekleştir- melerini sağlayan bir iş bölümü ve koordinasyon sistemi olarak ifade edilen kavram aşağıdakiler- den hangisidir?",
+        "options": {
+          "A": "İşletme",
+          "B": "Rekabet",
+          "C": "Girişimci",
+          "D": "Talep",
+          "E": "Örgüt"
+        },
+        "correct": "E",
+        "topic": "Günümüz İşletmelerinin\nKarşı Karşıya Kaldığı Gelişmeler"
+      },
+      {
+        "num": 2,
+        "question": "İşletmenin en alt kademesinden en üst kade- mesine kadar olan insan kaynaklarını ifade eden ve işletmenin birbirini tamamlayan ögelerinden biri olan unsur aşağıdakilerden hangisidir?",
+        "options": {
+          "A": "Beşeri unsur",
+          "B": "Fiziki unsur",
+          "C": "Motivasyon",
+          "D": "Kavramsal unsur",
+          "E": "Sermaye"
+        },
+        "correct": "A",
+        "topic": "Günümüz İşletmelerinin\nKarşı Karşıya Kaldığı Gelişmeler"
+      },
+      {
+        "num": 3,
+        "question": "Tüketicilerin az çaba sarf ederek satın almaya niyetli oldukları, genelde diğer ürünlere göre daha sık satın alınan, göreli olarak daha düşük fiyatlara sahip ürün grubuna ne ad verilir?",
+        "options": {
+          "A": "Sıradan mallar",
+          "B": "Beğenmeli mallar",
+          "C": "Özellikli mallar",
+          "D": "Kolayda mallar",
+          "E": "Hizmetler"
+        },
+        "correct": "D",
+        "topic": "İşletmenin Amaçları"
+      },
+      {
+        "num": 4,
+        "question": "Aşağıdakilerden hangisi sanayi devrimin özel- likleri veya etkilerinden biri değildir?",
+        "options": {
+          "A": "Zanaata verilen değer ve uzmanlaşma artmıştır.",
+          "B": "İş bölümü zorunluluk olmuştur.",
+          "C": "Ücret sistemleri ortaya çıkmıştır.",
+          "D": "Seri üretime olanak sağlayan makineler ile üre- tim yapılmaya başlanmıştır.",
+          "E": "Fabrikalardaki yoğun çalışma yönetim ve orga- nizasyon gereksinimini artırmıştır."
+        },
+        "correct": "A",
+        "topic": "İşletmeciliğin Tarihsel Ge-\nlişimi"
+      },
+      {
+        "num": 5,
+        "question": "Aşağıdaki yönetim yaklaşımlarından hangisi örgütün performansını çalışanların motivasyonu ile sağlanacağını savunur?",
+        "options": {
+          "A": "Yönetim süreci yaklaşımı",
+          "B": "Bilimsel yönetim yaklaşımı",
+          "C": "Bürokrasi yaklaşımı",
+          "D": "Neoklasik yaklaşım",
+          "E": "Modern yönetim yaklaşımı"
+        },
+        "correct": "D",
+        "topic": "İşletmenin Fonksiyonla-\nrı"
+      },
+      {
+        "num": 6,
+        "question": "I. Çok sayıda küçük firma vardır. II. Firmalar benzer ürünler satar. III. Pazardaki alıcı ve satıcılar; fiyatlar, te- darik kaynakları ve benzerleri hakkında tam bilgiye sahiptir. IV. Yeni bir işletme açmak veya mevcut bir işi sonlandırmak oldukça kolaydır. Yukarıdaki rekabet özelliklerine sahip olan pazar türü aşağıdakilerden hangisidir?",
+        "options": {
+          "A": "Tam rekabet",
+          "B": "Tekel",
+          "C": "Tekelci rekabet",
+          "D": "Oligopol",
+          "E": "Düopol"
+        },
+        "correct": "A",
+        "topic": "İşletmeciliğe İlişkin Te-\nmel Kavramlar"
+      },
+      {
+        "num": 7,
+        "question": "Aşağıdaki ifadelerden hangileri doğrudur? I. Kar işletmenin büyüme yatırım ve gelişim ara- cıdır. II. Kar her zaman işletme çalışanlarının yaşam kalitesini arttırır. III. Kar İşletmenin performansının bir göstergesi değildir. IV. Kar İşletmenin varlığını sürdürme için gerekli olan en önemli araçtır.",
+        "options": {
+          "A": "I ve II",
+          "B": "I ve III",
+          "C": "I ve IV",
+          "D": "II ve III",
+          "E": "II ve IV -- 31 of 36 -- İşletme İlkeleri 33 neler öğrendik?"
+        },
+        "correct": "C",
+        "topic": "İşletmeciliğin Tarihsel Ge-\nlişimi"
+      },
+      {
+        "num": 8,
+        "question": "Aşağıdaki çıkar gruplarından hangisinin be- lirgin amacı finansal açıdan güçlü müşteri ve zama- nında yapılan ödemeleri içerir?",
+        "options": {
+          "A": "Çalışanlar",
+          "B": "Yöneticiler",
+          "C": "Hisse sahipleri",
+          "D": "Kredi verenler",
+          "E": "Yönetim kurulu"
+        },
+        "correct": "D",
+        "topic": "İşletme Kavramı"
+      },
+      {
+        "num": 9,
+        "question": "Aşağıdakilerden hangisi pazarlama karması- nın unsurlarından biri değildir?",
+        "options": {
+          "A": "Ürün",
+          "B": "Marka",
+          "C": "Fiyat",
+          "D": "Tutundurma",
+          "E": "Dağıtım"
+        },
+        "correct": "B",
+        "topic": "İşletmenin Fonksiyonla-\nrı"
+      },
+      {
+        "num": 10,
+        "question": "Belirli süreçler veya ticari amaçlar için yapı- lan araştırmalar neticesinde yeni bilgiler elde et- menin amaçlandığı Ar-Ge çeşidi aşağıdakilerden hangisidir?",
+        "options": {
+          "A": "Temel araştırma",
+          "B": "Uygulamalı araştırma",
+          "C": "Geliştirme",
+          "D": "Üretim",
+          "E": "İnovasyon -- 32 of 36 -- İşletme ve İşletmecilik ile İlgili Kavramlar 34"
+        },
+        "correct": "B",
+        "topic": ""
+      }
+    ],
+    "Ünite 2": [
+      {
+        "num": 1,
+        "question": "Aşağıdaki çevresel faktörlerin hangisi makro çevre kapsamında sınıflandırılır?",
+        "options": {
+          "A": "Ekonomik çevre",
+          "B": "Müşteriler",
+          "C": "Örgüt kültürü",
+          "D": "Tedarikçiler",
+          "E": "İşletme çalışanları"
+        },
+        "correct": "A",
+        "topic": "İşletmeyi Etkileyen Çev-\nresel Faktörler"
+      },
+      {
+        "num": 2,
+        "question": "Aşağıdakilerden hangisi makro çevre faktörle- rinden biri değildir?",
+        "options": {
+          "A": "Ekonomik çevre",
+          "B": "Politik ve yasal çevre",
+          "C": "Sosyokültürel çevre",
+          "D": "Demografik çevre",
+          "E": "İşletmenin rakipleri"
+        },
+        "correct": "E",
+        "topic": "İşletme ve Çevresel Be-\nlirsizlik"
+      },
+      {
+        "num": 3,
+        "question": "I. Bireyci Kültür – Toplulukçu Kültür II. Güç Mesafesi III. Belirsizlikten Kaçınma IV. Maskülen – Feminen Kültür Yukarıdakilerden hangisi Hofstede’nin iş hayatına etki eden davranışları incelerken tanımladığı kültü- rel boyutlar kapsamında sınıflandırılabilir?",
+        "options": {
+          "A": "I, II, III ve IV",
+          "B": "I, II ve III",
+          "C": "I ve III",
+          "D": "II ve III",
+          "E": "Yalnız IV"
+        },
+        "correct": "A",
+        "topic": "İşletme ve Çevresel Be-\nlirsizlik"
+      },
+      {
+        "num": 4,
+        "question": "Bir ülkedeki nüfusun yapısı ve gelecekteki seyri aşağıdaki hangi çevre faktörünün temel ilgi alanıdır?",
+        "options": {
+          "A": "Demografik çevre",
+          "B": "Politik ve yasal çevre",
+          "C": "Ekonomik çevre",
+          "D": "Sosyo-kültürel çevre",
+          "E": "Mikro çevre"
+        },
+        "correct": "A",
+        "topic": "İşletmeyi Etkileyen Çev-\nresel Faktörler"
+      },
+      {
+        "num": 5,
+        "question": "Bir işletmenin faaliyetleri sırasında ihtiyaç duyduğu girdileri satın aldığı kişi ya da kurumlara ne ad verilir?",
+        "options": {
+          "A": "Tedarikçi",
+          "B": "Müşteri",
+          "C": "Tüketici",
+          "D": "Rakip",
+          "E": "Ortak"
+        },
+        "correct": "A",
+        "topic": "İşletme ve Çevresel Be-\nlirsizlik"
+      },
+      {
+        "num": 6,
+        "question": "Bir sektörde aşağıdaki durumların hangisin- de müşterilerin rekabet gücü yüksektir?",
+        "options": {
+          "A": "Müşteri sayısının fazla olması",
+          "B": "Tedarikçi sayısının az olması",
+          "C": "Talep edilen ürünlerin ikamelerinin rahatlıkla bulunması",
+          "D": "Tedarikçi değiştirme maliyetlerinin yüksek olması",
+          "E": "Aynı ürünü üreten çok az sayıda işletme olması"
+        },
+        "correct": "C",
+        "topic": "İşletmeyi Etkileyen Çev-\nresel Faktörler"
+      },
+      {
+        "num": 7,
+        "question": "Bir işletmeyi etkileyen az sayıda çevresel fak- tör olduğunu ifade eden kavram aşağıdakilerden hangisidir?",
+        "options": {
+          "A": "Basit çevre",
+          "B": "Karmaşık çevre",
+          "C": "Statik çevre",
+          "D": "Dinamik çevre",
+          "E": "İstikrarsız çevre"
+        },
+        "correct": "A",
+        "topic": "İşletmeyi Etkileyen Çev-\nresel Faktörler"
+      },
+      {
+        "num": 8,
+        "question": "Aşağıdakilerden hangisi bir işletmeyi etkile- yen çevresel faktörlerin hızla değiştiği koşulları ifa- de eder?",
+        "options": {
+          "A": "Basit çevre",
+          "B": "Karmaşık çevre",
+          "C": "Statik çevre",
+          "D": "Dinamik çevre",
+          "E": "İstikrarsız çevre"
+        },
+        "correct": "D",
+        "topic": "İşletmeyi Etkileyen Çev-\nresel Faktörler"
+      },
+      {
+        "num": 9,
+        "question": "İşletme yöneticilerinin geçmiş verileri ince- leyerek geleceğe yönelik tahminlerde bulunmasını sağlayan analiz yöntemi aşağıdakilerden hangisidir?",
+        "options": {
+          "A": "Trend analizi",
+          "B": "Senaryo hazırlama",
+          "C": "Delphi tekniği",
+          "D": "Swot analizi",
+          "E": "Pest analizi"
+        },
+        "correct": "A",
+        "topic": "İşletme ve Çevresel Be-\nlirsizlik"
+      },
+      {
+        "num": 10,
+        "question": "İşletme yöneticilerinin sektörlerini tanıyan, deneyim sahibi uzmanların görüşlerinden yararla- narak dış çevreyi analiz etmeye çalıştıkları teknik aşağıdakilerden hangisidir?",
+        "options": {
+          "A": "Trend analizi",
+          "B": "Senaryo hazırlama",
+          "C": "Delphi tekniği",
+          "D": "Swot analizi",
+          "E": "Pest analizi -- 18 of 20 -- İşletme ve Çevresi 56"
+        },
+        "correct": "C",
+        "topic": ""
+      }
+    ],
+    "Ünite 3": [
+      {
+        "num": 1,
+        "question": "1 Başka bir işletmenin ürettiği ürünü satın alıp ürün üzerinde değişiklik yapmadan perakende ola- rak müşterilere satan işletme türü hangisidir?",
+        "options": {
+          "A": "Hizmet işletmesi",
+          "B": "Maden işletmesi",
+          "C": "Ticaret işletmesi",
+          "D": "Karma işletme",
+          "E": "Kamu işletmesi"
+        },
+        "correct": "C",
+        "topic": "Üretim Faktörlerinin\nAğırlığına Göre İşletme Türleri"
+      },
+      {
+        "num": 2,
+        "question": "İlaç, boya, deterjan, plastik gibi ürünler üre- ten işletmelerin yer aldığı endüstri aşağıdakilerden hangisidir?",
+        "options": {
+          "A": "Analitik",
+          "B": "Sentetik",
+          "C": "Montaj",
+          "D": "Bütünleştirilmiş",
+          "E": "Yapı"
+        },
+        "correct": "B",
+        "topic": "Hukuki Yapılarına Göre\nİşletme Türleri"
+      },
+      {
+        "num": 3,
+        "question": "İktisadi devlet teşekkülleri, kamu iktisadi ku- ruluşları ve/veya bağlı ortaklıklarının sermayeleri- nin en az %15 en fazla %50’sine sahip oldukları anonim şirketlere ne ad verilir?",
+        "options": {
+          "A": "Bağlı menkul kıymet",
+          "B": "Müessese",
+          "C": "Bağlı ortaklık",
+          "D": "İştirak",
+          "E": "Kooperatif"
+        },
+        "correct": "D",
+        "topic": "Hukuki Yapılarına Göre\nİşletme Türleri"
+      },
+      {
+        "num": 4,
+        "question": "Aşağıdakilerden hangisi işletmeleri büyük- lüklerine göre sınıflandırırken kullanılan nitel öl- çütlerden biri değildir?",
+        "options": {
+          "A": "Sermaye mülkiyeti",
+          "B": "Yönetim şekli",
+          "C": "Örgüt yapısı",
+          "D": "Hukuki yapı",
+          "E": "Pazar yapısı"
+        },
+        "correct": "A",
+        "topic": "Büyüklüklerine Göre\nİşletme Türleri"
+      },
+      {
+        "num": 5,
+        "question": "Büyüklüklerine göre yapılan gruplandırma- da, yıllık istihdam edilen çalışan sayısı en az 10 en fazla 49 kişi olan ve yıllık net satış hasılatı 25 mil- yon Türk lirasını aşmayan işletmeler hangi grupta yer alır?",
+        "options": {
+          "A": "Küçük ölçekli işletme",
+          "B": "Büyük ölçekli işletme",
+          "C": "Mikro ölçekli işletme",
+          "D": "Makro ölçekli işletme",
+          "E": "Orta ölçekli işletme"
+        },
+        "correct": "A",
+        "topic": "Hukuki Yapılarına Göre\nİşletme Türleri"
+      },
+      {
+        "num": 6,
+        "question": "“Toplam varlıkları içinde sabit varlıkları önemli bir paya sahiptir. Yüksek miktarda serma- yeye sahiptir. Üretim sürecinde gelişmiş üretim teknolojileri kullanmaktadır. Kuruluş maliyetleri oldukça yüksektir.” Yukarıda özellikleri verilmiş olan işletme hangi sektörde faaliyet göstermektedir?",
+        "options": {
+          "A": "Tekstil",
+          "B": "Konfeksiyon",
+          "C": "Ayakkabı imalatı",
+          "D": "Otomotiv",
+          "E": "Hizmet"
+        },
+        "correct": "D",
+        "topic": "Sermayenin Mülkiyeti-\nne Göre İşletme Türleri"
+      },
+      {
+        "num": 7,
+        "question": "İşletmelerin hukuki yapılarına göre yapılan ayrımda ortaya çıkan işletme türlerinden hangisi ticari şirket niteliği taşımaz?",
+        "options": {
+          "A": "Kollektif şirket",
+          "B": "Komandit şirket",
+          "C": "Adi şirket",
+          "D": "Anonim şirket",
+          "E": "Limited şirket -- 23 of 28 -- İşletme İlkeleri 81 neler öğrendik?"
+        },
+        "correct": "C",
+        "topic": "Büyüklüklerine Göre\nİşletme Türleri"
+      },
+      {
+        "num": 8,
+        "question": "Aşağıdakilerden hangisi limited şirketin özel- liklerinden biri değildir?",
+        "options": {
+          "A": "Kredi sağlama olanaklarının sınırlı olması",
+          "B": "Büyüme yeteneğinin az olması",
+          "C": "Hisse senedi çıkaramaması",
+          "D": "Bankacılık ve sigortacılık gibi faaliyetlerde bu- lunamaması",
+          "E": "Esnekliğinin az olması"
+        },
+        "correct": "E",
+        "topic": "Faaliyet Alanlarına Göre\nİşletme Türleri"
+      },
+      {
+        "num": 9,
+        "question": "Yukarıdaki cümlede boş bırakılan yerleri aşa- ğıdakilerden hangisi sırasıyla ve doğru şekilde ta- mamlar? “Taşıdıkları özelliklere bakılarak sermayesi paylara bölünmüş komandit şirketin …… ve …… şirketin bir bileşimi olduğu ifade edilebilir.”",
+        "options": {
+          "A": "limited – kollektif",
+          "B": "kollektif – anonim",
+          "C": "komandit – anonim",
+          "D": "anonim – limited",
+          "E": "kollektif – adi"
+        },
+        "correct": "B",
+        "topic": "Kooperatifler"
+      },
+      {
+        "num": 10,
+        "question": "“Kooperatifler ev sahibi olmak, tüketim maddelerini birinci elden daha ucuza temin etmek, ürünlerini pazarlarda aracı kullanmadan satmak, üretim araçlarını birlikte satın almak, kredi temin edebilmek gibi birçok amaçla kurulabilmektedir.” Buna göre aşağıdakilerden hangisi kooperatif tür- lerinden biri değildir?",
+        "options": {
+          "A": "Üretim kooperatifleri",
+          "B": "Tüketim kooperatifleri",
+          "C": "Tarım satış kooperatifleri",
+          "D": "Tarım kredi kooperatifleri",
+          "E": "Taşıma kooperatifleri -- 24 of 28 -- İşletmelerin Sınıflandırılması ve Türleri 82"
+        },
+        "correct": "E",
+        "topic": ""
+      }
+    ],
+    "Ünite 4": [
+      {
+        "num": 1,
+        "question": "Aşağıdakilerden hangisi Carroll’un sosyal so- rumluluk piramidinde yer alan sorumluluk alanla- rından biri değildir?",
+        "options": {
+          "A": "Bireysel sorumluluklar",
+          "B": "Ekonomik sorumluluklar",
+          "C": "Yasal sorumluluklar",
+          "D": "Ahlaki sorumluluklar",
+          "E": "Gönüllü sorumluluklar"
+        },
+        "correct": "A",
+        "topic": "Kurumsal Vatandaşlık\nve Paydaş Teorisi"
+      },
+      {
+        "num": 2,
+        "question": "Doğru ve adil olanı yapmakla, sosyal paydaş- lara zarar gelmesini önlemekle ya da gelmesi muh- temel zararı asgari düzeye indirmekle ilgili sorum- luluk alanı aşağıdakilerden hangisidir?",
+        "options": {
+          "A": "Ekonomik sorumluluklar",
+          "B": "Toplumsal sorumluluklar",
+          "C": "Gönüllü sorumluluklar",
+          "D": "Yasal sorumluluklar",
+          "E": "Ahlaki sorumluluklar"
+        },
+        "correct": "E",
+        "topic": "Kurumsal Vatandaşlık\nve Paydaş Teorisi"
+      },
+      {
+        "num": 3,
+        "question": "Ürün içeriği ve ürünün kullanım esnasında tüketicilere zarar vermeyecek, yaşamlarını olumsuz etkilemeyecek biçimde üretilip pazara sunulması aşağıdakilerden hangisi içerisinde yer alır?",
+        "options": {
+          "A": "Rakiplere karşı sorumluluklar",
+          "B": "Müşterilere karşı sorumluluklar",
+          "C": "Pay sahiplerine karşı sorumluluklar",
+          "D": "Çalışanlara karşı sorumluluklar",
+          "E": "Tedarikçilere karşı sorumluluklar"
+        },
+        "correct": "B",
+        "topic": "Kurumsal Vatandaşlık\nve Paydaş Teorisi"
+      },
+      {
+        "num": 4,
+        "question": "İşletmeler, toplumun geneline ait kaynakları etkin kullanma yanında her türlü çevre faktörünü olumsuz etkileyebilecek uygulamalardan kaçınmak zorundadır. Bu durum hangi sorumluluk kapsamında değer- lendirilmektedir?",
+        "options": {
+          "A": "Çalışanlara karşı sorumluluklar",
+          "B": "Devlete karşı sorumluluklar",
+          "C": "Rakiplere karşı sorumluluklar",
+          "D": "Çevreye karşı sorumluluklar",
+          "E": "Topluma karşı sorumluluklar"
+        },
+        "correct": "D",
+        "topic": "Sosyal Sorumlulukla İl-\ngili Yaklaşımlar"
+      },
+      {
+        "num": 5,
+        "question": "Aşağıdakilerden hangisinde kurumsal sosyal sorumlulukla ilgili yaklaşımlar bir arada verilmiştir?",
+        "options": {
+          "A": "Bireyci ve toplulukçu yaklaşım",
+          "B": "Sosyal ve modern yaklaşım",
+          "C": "Klasik ve modern yaklaşım",
+          "D": "Klasik ve yenilikçi yaklaşım",
+          "E": "Modern ve bireyci yaklaşım"
+        },
+        "correct": "C",
+        "topic": "İş Ahlakıyla İlgili Konu-\nlar"
+      },
+      {
+        "num": 6,
+        "question": "İşletmelerin ticari faaliyetlerini gerçekleştirir- ken tüm yasal, ahlaki ve sosyal kurallara uyması ve toplumla arasında oluşan sosyal sözleşmenin gereklerini yerine getirmesi aşağıdakilerden hangi- siyle tanımlanmaktadır?",
+        "options": {
+          "A": "Kurumsal sosyal sorumluluk",
+          "B": "İş ahlakı",
+          "C": "Ahlaki sorumluluk",
+          "D": "Paydaş teorisi",
+          "E": "Kurumsal vatandaşlık"
+        },
+        "correct": "E",
+        "topic": "Sosyal Sorumluluk Alan-\nları"
+      },
+      {
+        "num": 7,
+        "question": "İşletmenin faaliyetlerinden etkilenen ya da bu faaliyetleri etkileyen kesimlerin tamamı aşağı- dakilerden hangisiyle adlandırılmaktadır?",
+        "options": {
+          "A": "Hissedarlar",
+          "B": "Paydaşlar",
+          "C": "Kamu kurumları",
+          "D": "Müşteriler",
+          "E": "Rakipler"
+        },
+        "correct": "B",
+        "topic": "Sosyal Sorumluluk Alan-\nları"
+      },
+      {
+        "num": 8,
+        "question": "Paydaş kavramının iktisadi kurallarla, davra- nış bilimleriyle ve ahlakla uyumunu sağlaması aşa- ğıdaki paydaş teorilerinden hangisiyle ilişkilidir?",
+        "options": {
+          "A": "Araçsal paydaş teorisi",
+          "B": "Durumsal paydaş teorisi",
+          "C": "Betimleyici paydaş teorisi",
+          "D": "Yapısalcı paydaş teorisi",
+          "E": "Normatif paydaş teorisi -- 20 of 24 -- Sosyal Sorumluluk ve İş Ahlakı 106 neler öğrendik?"
+        },
+        "correct": "A",
+        "topic": "Sosyal Sorumluluk Alan-\nları"
+      },
+      {
+        "num": 9,
+        "question": "Fiyat sınırlamaları, farklılıkları ve anlaşmaları aşağıdaki iş ahlakı konularının hangisinin içerisin- de yer alır?",
+        "options": {
+          "A": "Çevre ile ilgili iş ahlakı konuları",
+          "B": "Teknolojik faktörlerle ilgili iş ahlakı konuları",
+          "C": "Pazar ve rakiplerle ilgili iş ahlakı konuları",
+          "D": "Araştırma ve geliştirmeyle ilgili iş ahlakı konu- ları",
+          "E": "Yasal faktörlerle ilgili iş ahlakı konuları"
+        },
+        "correct": "C",
+        "topic": "İş Ahlakıyla İlgili Konu-\nlar"
+      },
+      {
+        "num": 10,
+        "question": "Aşağıdakilerden hangisi işletmelerin insan kaynakları fonksiyonuyla ilgili iş ahlakı konuların- dan biri değildir?",
+        "options": {
+          "A": "Ödüllendirme",
+          "B": "Ücret ve çalışma haklarının gözetilmesi",
+          "C": "Eğitim ve yetiştirme hakları",
+          "D": "Yanıltıcı promosyon uygulamaları",
+          "E": "İşten çıkarmalar -- 21 of 24 -- İşletme İlkeleri 107"
+        },
+        "correct": "D",
+        "topic": ""
+      }
+    ]
+  }
+}
